@@ -1,0 +1,41 @@
+
+# Repositório do curso de Engenharia de Software 🚀
+---
+> Neste repositório, você pode acompanhar o meu progresso no curso de Engenharia de Software oferecido pela Descomplica. O conteúdo está organizado em branches e pastas, sendo que cada branch representa um módulo específico. Dentro de cada módulo, os dias estão separados em pastas individuais. A seguir, você encontrará uma lista das branches juntamente com uma tabela que relaciona pastas e seus respectivos conteúdos.
+
+### 📂 Branches e seus respectivos conteúdos
+---
+<details>
+<summary>dinamyc-development</summary>
+
+| Pasta      | Conteúdo                 | 
+| ----------- | ------------------------ |
+| dia_01    | Ambientes de programação para JavaScript |
+| dia_02   | Programação com JavaScript: Conceitos         | 
+| dia_03    | Programando com JavaScript: primeiros comandos              | 
+| dia_04 | Criando e manipulando arrays           | 
+| dia_05   | Avançando com Arrays           | 
+
+</details>
+
+
+<details>
+<summary>frontend-development</summary>
+
+| Pasta      | Conteúdo                 | 
+| ----------- | ------------------------ |
+| dia_01    | Ambientes de Programação |
+
+</details>
+
+<details>
+<summary>user-experience</summary>
+
+| Pasta      | Conteúdo                 | 
+| ----------- | ------------------------ |
+| dia_01    | Experiência do Usuário (UX) |
+
+</details>
+
+---
+> ⭐️ Este README foi gerado com o [Code Mark](https://codemark.com.br) - uma poderosa ferramenta de geração de README drag in drop, que possibilita a criação fácil e rápida de documentos excepcionais. Explore a praticidade de destacar seu projeto com o Code Mark!
