@@ -25,6 +25,7 @@
 | Pasta      | Conteúdo                 | 
 | ----------- | ------------------------ |
 | dia_01    | Ambientes de Programação |
+| dia_02 | Conceitos básicos de HTML |
 
 </details>
 
