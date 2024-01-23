@@ -15,6 +15,7 @@
 | dia_03    | Programando com JavaScript: primeiros comandos              | 
 | dia_04 | Criando e manipulando arrays           | 
 | dia_05   | Avançando com Arrays           | 
+| dia_06 | Instruções: If e Switch           |
 
 </details>
 
