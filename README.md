@@ -16,6 +16,7 @@
 | dia_04 | Criando e manipulando arrays           | 
 | dia_05   | Avançando com Arrays           | 
 | dia_06 | Instruções: If e Switch           |
+| dia_07 | Instruções: For e While           |
 
 </details>
 
@@ -27,6 +28,7 @@
 | ----------- | ------------------------ |
 | dia_01    | Ambientes de Programação |
 | dia_02 | Conceitos básicos de HTML |
+| dia_03 | Mídia com HTML |
 
 </details>
 
