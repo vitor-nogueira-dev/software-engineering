@@ -28,7 +28,7 @@
 | ----------- | ------------------------ |
 | dia_01    | Ambientes de Programação |
 | dia_02 | Conceitos básicos de HTML |
-| dia_03 | Mídia com HTML |
+| dia_03 | Mídias com HTML |
 
 </details>
 
