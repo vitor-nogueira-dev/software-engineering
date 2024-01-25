@@ -1,0 +1,3 @@
+####  Como projetar uma boa interface?
+
+- Em resumo, uma boa interface não apenas é fácil de usar e compreender, mas também atende às necessidades dos usuários, sendo amigável para o uso diário. Isso engloba considerações sobre como as pessoas interagem, seja tocando, falando ou clicando para controlar os elementos. Vai além da estética, envolvendo a interatividade, o design system e a responsividade. Para alcançar esse objetivo, é essencial seguir um processo de design abrangente, que inclui pesquisa, análise, planejamento, definição, ideação, prototipação, teste, implementação e medição. Dessa forma, garantimos que a interface seja não apenas visualmente atraente, mas também altamente funcional e adaptável.
