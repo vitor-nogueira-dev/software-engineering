@@ -38,6 +38,7 @@
 | Pasta      | Conteúdo                 | 
 | ----------- | ------------------------ |
 | dia_01    | Experiência do Usuário (UX) |
+| dia_02 | Interface do usuário (UI) |
 
 </details>
 
