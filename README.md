@@ -17,6 +17,7 @@
 | dia_05   | Avançando com Arrays           | 
 | dia_06 | Instruções: If e Switch           |
 | dia_07 | Instruções: For e While           |
+| dia_08 | Strings           |
 
 </details>
 
