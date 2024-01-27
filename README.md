@@ -8,16 +8,17 @@
 <details>
 <summary>dinamyc-development</summary>
 
-| Pasta      | Conteúdo                 | 
-| ----------- | ------------------------ |
-| dia_01    | Ambientes de programação para JavaScript |
-| dia_02   | Programação com JavaScript: Conceitos         | 
-| dia_03    | Programando com JavaScript: primeiros comandos              | 
-| dia_04 | Criando e manipulando arrays           | 
-| dia_05   | Avançando com Arrays           | 
-| dia_06 | Instruções: If e Switch           |
-| dia_07 | Instruções: For e While           |
-| dia_08 | Strings           |
+| Pasta  | Conteúdo                                       |
+| ------ | ---------------------------------------------- |
+| dia_01 | Ambientes de programação para JavaScript       |
+| dia_02 | Programação com JavaScript: Conceitos          |
+| dia_03 | Programando com JavaScript: primeiros comandos |
+| dia_04 | Criando e manipulando arrays                   |
+| dia_05 | Avançando com Arrays                           |
+| dia_06 | Instruções: If e Switch                        |
+| dia_07 | Instruções: For e While                        |
+| dia_08 | Strings                                        |
+| dia_09 | Funções e Objetos                              |
 
 </details>
 
@@ -25,21 +26,21 @@
 <details>
 <summary>frontend-development</summary>
 
-| Pasta      | Conteúdo                 | 
-| ----------- | ------------------------ |
-| dia_01    | Ambientes de Programação |
+| Pasta  | Conteúdo                  |
+| ------ | ------------------------- |
+| dia_01 | Ambientes de Programação  |
 | dia_02 | Conceitos básicos de HTML |
-| dia_03 | Mídias com HTML |
+| dia_03 | Mídias com HTML           |
 
 </details>
 
 <details>
 <summary>user-experience</summary>
 
-| Pasta      | Conteúdo                 | 
-| ----------- | ------------------------ |
-| dia_01    | Experiência do Usuário (UX) |
-| dia_02 | Interface do usuário (UI) |
+| Pasta  | Conteúdo                    |
+| ------ | --------------------------- |
+| dia_01 | Experiência do Usuário (UX) |
+| dia_02 | Interface do usuário (UI)   |
 
 </details>
 
