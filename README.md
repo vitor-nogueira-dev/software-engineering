@@ -31,6 +31,7 @@
 | dia_01 | Ambientes de Programação  |
 | dia_02 | Conceitos básicos de HTML |
 | dia_03 | Mídias com HTML           |
+| dia_04 | Montando tabelas com HTML |
 
 </details>
 
