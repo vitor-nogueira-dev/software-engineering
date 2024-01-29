@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulário de Contato</title>
+</head>
+
+<body>
+
+  <h1>Formulário de Contato</h1>
+
+  <form action="#" method="post">
+    <fieldset>
+      <legend>Informações Pessoais</legend>
+
+      <label for="nome">Nome:</label>
+      <input type="text" id="nome" name="nome" required>
+
+      <label for="sobrenome">Sobrenome:</label>
+      <input type="text" id="sobrenome" name="sobrenome" required>
+
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required>
+
+      <label for="dataNascimento">Data de Nascimento:</label>
+      <input type="date" id="dataNascimento" name="dataNascimento" required>
+    </fieldset>
+
+    <fieldset>
+      <legend>Preferências</legend>
+
+      <label for="linguagem">Linguagem de Programação Favorita:</label>
+      <select id="linguagem" name="linguagem" required>
+        <option value="html">HTML</option>
+        <option value="css">CSS</option>
+        <option value="javascript">JavaScript</option>
+        <option value="php">PHP</option>
+        <option value="python">Python</option>
+      </select>
+    </fieldset>
+
+    <fieldset>
+      <legend>Mensagem</legend>
+
+      <label for="mensagem">Escreva sua mensagem:</label>
+      <textarea id="mensagem" name="mensagem" rows="4" required></textarea>
+    </fieldset>
+
+    <input type="submit" value="Enviar">
+  </form>
+
+</body>
+
+</html>
