@@ -39,10 +39,11 @@
 <details>
 <summary>user-experience</summary>
 
-| Pasta  | Conteúdo                    |
-| ------ | --------------------------- |
-| dia_01 | Experiência do Usuário (UX) |
-| dia_02 | Interface do usuário (UI)   |
+| Pasta  | Conteúdo                                    |
+| ------ | ------------------------------------------- |
+| dia_01 | Experiência do Usuário (UX)                 |
+| dia_02 | Interface do usuário (UI)                   |
+| dia_03 | Design Thinking (Conhecimentos importantes) |
 
 </details>
 
