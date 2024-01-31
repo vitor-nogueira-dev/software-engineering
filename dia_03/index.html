@@ -94,21 +94,57 @@
     <!-- <h2>Orçamento</h2> -->
     <form action="" method="GET">
       <fieldset>
-        <legend>Orçamento</legend>
+        <legend>Dados da viagem</legend>
         <label for="" id="name">Nome</label>
         <input type="text" name="name" id="name">
+
         <label for="" id="email">E-mail</label>
         <input type="email" required name="email" id="email">
+
         <label for="departureDate">Data de ida</label>
         <input type="date" name="departureDate" id="departureDate">
+
         <label for="returnDate">Data de volta</label>
         <input type="date" name="returnDate" id="returnDate">
-        <label for="qtdPersons">Qtd Pessoas</label>
+
+        <label for="qtdPersons">Quantidade de pessoas</label>
         <input type="number" name="qtdPersons" id="qtdPersons">
-        <label for="" id="message">Comentário</label>
-        <textarea name="message" id="message" cols="30" rows="10"></textarea>
-        <button type="submit">Salvar</button>
       </fieldset>
+
+      <fieldset>
+        <legend>Quais serviços deseja contratar?</legend>
+        <input type="checkbox" name="passagens" id="passagens" value="Passagens">
+        <label for="passagens">Compra de passagens</label>
+        <input type="checkbox" name="hospedagem" id="hospedagem" value="Hospedagem">
+        <label for="hospedagem">Reserva de hospedagem</label>
+        <input type="checkbox" name="aluguel" id="aluguel" value="Aluguel Carro">
+        <label for="aluguel">Aluguel de carro</label>
+      </fieldset>
+
+      <fieldset>
+        <legend>Escolha a forma de pagamento</legend>
+        <input type="radio" name="payment" id="credito" value="Cartão de crédito">
+        <label for="credito">Cartão de crédito</label>
+
+        <input type="radio" name="payment" id="boleto" value="Boleto">
+        <label for="boleto">Boleto</label>
+
+        <input type="radio" name="payment" id="pix" value="Pix">
+        <label for="pix">Pix</label>
+      </fieldset>
+
+      <fieldset>
+        <legend>Escolha o prazo para pagamento</legend>
+        <select name="paymentTerm" id="paymentTerm">
+          <option value="avista">À vista</option>
+          <option value="5x">5x sem juros</option>
+          <option value="10x">10x sem juros</option>
+        </select>
+      </fieldset>
+      <label for="" id="message">Comentário</label>
+      <textarea name="message" id="message" cols="30" rows="10"></textarea>
+
+      <button type="submit">Salvar</button>
     </form>
   </section>
   <footer>
