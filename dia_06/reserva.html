@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulário de Reserva</title>
+</head>
+
+<body>
+  <main>
+    <section>
+      <h1>Formulário de Reserva de Viagem</h1>
+      <form action="#" method="post">
+        <fieldset>
+          <legend>Informações Pessoais</legend>
+          <label for="nome">Nome:</label>
+          <input type="text" id="nome" name="nome" required> <br><br>
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" required> <br><br>
+        </fieldset>
+        <fieldset>
+          <legend>Serviços Desejados</legend>
+          <label>Escolha os serviços desejados:</label><br>
+          <input type="checkbox" id="passagens" name="passagens" value="passagens">
+          <label for="passagens">Compra de Passagens</label>
+          <input type="checkbox" id="hospedagem" name="hospedagem" value="hospedagem">
+          <label for="hospedagem">Reserva de Hospedagem</label>
+          <input type="checkbox" id="veiculos" name="veiculos" value="veiculos">
+          <label for="veiculos">Aluguel de Veículos</label>
+        </fieldset>
+        <fieldset>
+          <legend>Forma de Pagamento</legend>
+          <label>Escolha a forma de pagamento:</label><br>
+          <input type="radio" id="cartao" name="pagamento" value="cartao">
+          <label for="cartao">Cartão de Crédito</label>
+          <input type="radio" id="boleto" name="pagamento" value="boleto">
+          <label for="boleto">Boleto</label>
+          <input type="radio" id="pix" name="pagamento" value="pix">
+          <label for="pix">PIX</label>
+        </fieldset>
+        <fieldset>
+          <legend>Prazo de Pagamento</legend>
+          <label for="prazo">Escolha o prazo de pagamento:</label>
+          <select id="prazo" name="prazo">
+            <option value="avista">À Vista</option>
+            <option value="5x">Cinco Vezes Sem Juros</option>
+            <option value="10x">Dez Vezes Com Juros</option>
+          </select>
+        </fieldset>
+        <fieldset>
+          <legend>Informações adicionais</legend>
+          <textarea id="observacoes" name="observacoes" rows="4" cols="50"></textarea>
+        </fieldset>
+        <input type="submit" value="Enviar Reserva">
+      </form>
+    </section>
+  </main>
+</body>
+
+</html>
