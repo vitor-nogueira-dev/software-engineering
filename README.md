@@ -47,6 +47,7 @@
 | dia_03 | Design Thinking (Conhecimentos importantes) |
 | dia_04 | Metodologias de Design                      |
 | dia_05 | Fases empatia e definição                   |
+| dia_06 | Fases de ideação                            |
 
 </details>
 
