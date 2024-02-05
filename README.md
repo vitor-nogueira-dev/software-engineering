@@ -19,6 +19,7 @@
 | dia_07 | Instruções: For e While                        |
 | dia_08 | Strings                                        |
 | dia_09 | Funções e Objetos                              |
+| dia_10 | Classes                                        |
 
 </details>
 
