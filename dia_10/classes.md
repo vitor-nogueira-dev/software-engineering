@@ -13,3 +13,8 @@ Ex: Classe **Pássaro**
 - Métodos que permitem obter e modificar os valores dos atributos de um objeto.
 - Getter: Método que retorna o valor de um atributo. (getNome)
 - Setter: Método que modifica o valor de um atributo. (setNome)
+
+##### Herança
+- Permite que uma classe herde atributos e métodos de outra classe.
+- Classe pai (superclasse) e classe filha (subclasse).
+- A subclasse herda todos os atributos e métodos da superclasse.
