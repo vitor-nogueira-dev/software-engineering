@@ -36,6 +36,7 @@
 | dia_05 | Criação de formulários com HTML   |
 | dia_06 | Continuação: formulários com HTML |
 | dia_07 | CSS: Entendendo sobre estilos     |
+| dia_08 | CSS: Criando estilos              |
 
 </details>
 
