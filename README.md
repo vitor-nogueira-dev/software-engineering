@@ -51,6 +51,7 @@
 | dia_04 | Metodologias de Design                      |
 | dia_05 | Fases empatia e definição                   |
 | dia_06 | Fases de ideação                            |
+| dia_07 | Fases de prototipação                       |
 
 </details>
 
