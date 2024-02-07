@@ -13,9 +13,9 @@
 | dia_02 | Interface do usuário (UI)                   |
 | dia_03 | Design Thinking (Conhecimentos importantes) |
 | dia_04 | Metodologias de Design                      |
-| dia_05 | Fase empatia e definição                   |
-| dia_06 | Fase de ideação                            |
-| dia_07 | Fase de prototipação                       |
+| dia_05 | Fase empatia e definição                    |
+| dia_06 | Fase de ideação                             |
+| dia_07 | Fase de prototipação                        |
 
 </details>
 
