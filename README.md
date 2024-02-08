@@ -17,7 +17,7 @@
 | dia_06 | Fase de ideação                             |
 | dia_07 | Fase de prototipação                        |
 | dia_08 | Fase de testes                              |
-
+| dia_09 | Princípios, stakeholders e escopo           |
 </details>
 
 ---
