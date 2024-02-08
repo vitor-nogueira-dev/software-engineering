@@ -16,6 +16,7 @@
 | dia_05 | Fase empatia e definição                    |
 | dia_06 | Fase de ideação                             |
 | dia_07 | Fase de prototipação                        |
+| dia_08 | Fase de testes                              |
 
 </details>
 
