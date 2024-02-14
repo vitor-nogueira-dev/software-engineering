@@ -12,8 +12,8 @@
 </head>
 
 <body>
-  <header>
-    <nav class="navbar navbar-expand-sm bg-body-tertiary">
+  <header class="container-fluid p-2 bg-warning text-center">
+    <nav class="navbar navbar-expand-sm bg-warning">
       <div class="container-fluid">
         <a class="navbar-brand" href="#">Agência Nogueira</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
@@ -37,9 +37,9 @@
     </nav>
     <h1>Descubra Destinos Exclusivos: Sua Viagem dos Sonhos Começa Aqui!</h1>
   </header>
-  <section id="pacotes">
+  <section class="container-fluid bg-light text-center p-5">
     <h2>Explore Nossos Pacotes Personalizados</h2>
-    <p>
+    <p class="w-75 m-auto">
       Embarque em uma jornada inesquecível e descubra lugares extraordinários ao redor do mundo. Nossos pacotes de
       viagem são cuidadosamente elaborados para proporcionar experiências únicas, desde praias paradisíacas até
       metrópoles pulsantes.
@@ -49,40 +49,55 @@
       destino se torna uma oportunidade para criar memórias duradouras.
       <br>
       <br>
-      <a href="https://www.google.com">Explore nossos destinos</a>
+      <a href="https://www.google.com" class="btn btn-warning">Explore nossos destinos</a>
       <hr>
     </p>
-    <div class="row">
-      <figure class="col text-center">
-        <img src="./img/rio-de-janeiro.jpg" width="150px" alt="Pão de açúcar no Rio de Janeiro - Brasil">
-        <figcaption>Rio de Janeiro</figcaption>
-      </figure>
-      <figure class="col text-center">
-        <img src="./img/porto-seguro.jpg" width="150px" alt="Praia em Porto Seguro - Bahia - Brasil">
-        <figcaption>Porto Seguro</figcaption>
-      </figure>
-      <figure class="col text-center">
-        <img src="./img/jericoacoara.jpg" width="150px" alt="Praia em Jericoacoara - Ceará - Brasil">
-        <figcaption>Jericoacoara</figcaption>
-      </figure>
+    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active text-center">
+          <img src="./img/rio-de-janeiro.jpg" class="d-block mx-auto w-50"
+            alt="Pão de açúcar no Rio de Janeiro - Brasil">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Rio de Janeiro</h5>
+          </div>
+        </div>
+        <div class="carousel-item text-center">
+          <img src="./img/porto-seguro.jpg" class="d-block mx-auto w-50" alt="Praia em Porto Seguro - Bahia - Brasil">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Porto Seguro</h5>
+          </div>
+        </div>
+        <div class="carousel-item text-center">
+          <img src="./img/jericoacoara.jpg" class="d-block mx-auto w-50" alt="Praia em Jericoacoara - Ceará - Brasil">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Jericoacoara</h5>
+          </div>
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls"
+        data-bs-slide="prev">
+        <span class="carousel-control-prev-icon bg-warning rounded p-2" aria-hidden="true"></span>
+        <span class="visually-hidden">Anterior</span>
+      </button>
+      <button class="carousel-control-next " type="button" data-bs-target="#carouselExampleControls"
+        data-bs-slide="next">
+        <span class="carousel-control-next-icon bg-warning rounded p-2" aria-hidden="true"></span>
+        <span class="visually-hidden ">Próximo</span>
+      </button>
     </div>
-    <!-- <div class="videos">
-      <video width="300px" controls>
-        <source src="./videos/rio-de-janeiro.mp4" type="video/mp4">
-        Seu navegador não suporta o elemento <code>video</code>.
-        <a href="./videos/rio-de-janeiro.mp4">Clique aqui para baixar</a>
-      </video>
-    </div> -->
+
+
   </section>
-  <section>
+
+  <section class="container-fluid bg-warning p-5">
     <h2>Taxas de serviços</h2>
     <p>Confira nossas taxas</p>
-    <table>
-      <caption>Descrição dos serviços e respectivos valores</caption>
+    <table class="table table-hover">
+      <caption>*Descrição dos serviços e respectivos valores</caption>
       <thead>
         <tr>
-          <th>Serviço</th>
-          <th>Valor</th>
+          <th scope="col">Serviço</th>
+          <th scope="col">Valor</th>
         </tr>
       </thead>
       <tbody>
@@ -107,64 +122,92 @@
       </tfoot> -->
     </table>
   </section>
-  <section>
-    <!-- <h2>Orçamento</h2> -->
+
+  <section class="container bg-light p-5" style="width: 85%; margin: 0 auto;">
     <form action="" method="GET">
       <fieldset>
         <legend>Dados da viagem</legend>
-        <label for="" id="name">Nome</label>
-        <input type="text" name="name" id="name">
-
-        <label for="" id="email">E-mail</label>
-        <input type="email" required name="email" id="email">
-
-        <label for="departureDate">Data de ida</label>
-        <input type="date" name="departureDate" id="departureDate">
-
-        <label for="returnDate">Data de volta</label>
-        <input type="date" name="returnDate" id="returnDate">
-
-        <label for="qtdPersons">Quantidade de pessoas</label>
-        <input type="number" name="qtdPersons" id="qtdPersons">
+        <div class="row mb-3">
+          <div class="col">
+            <label for="name">Nome</label>
+            <input type="text" class="form-control" name="name" id="name">
+          </div>
+          <div class="col">
+            <label for="email">E-mail</label>
+            <input type="email" class="form-control" required name="email" id="email">
+          </div>
+        </div>
+        <div class="row mb-3">
+          <div class="col">
+            <label for="departureDate">Data de ida</label>
+            <input type="date" class="form-control" name="departureDate" id="departureDate">
+          </div>
+          <div class="col">
+            <label for="returnDate">Data de volta</label>
+            <input type="date" class="form-control" name="returnDate" id="returnDate">
+          </div>
+        </div>
+        <div class="row mb-3">
+          <div class="col">
+            <label for="qtdPersons">Quantidade de pessoas</label>
+            <input type="number" class="form-control" name="qtdPersons" id="qtdPersons">
+          </div>
+        </div>
       </fieldset>
 
       <fieldset>
         <legend>Quais serviços deseja contratar?</legend>
-        <input type="checkbox" name="passagens" id="passagens" value="Passagens">
-        <label for="passagens">Compra de passagens</label>
-        <input type="checkbox" name="hospedagem" id="hospedagem" value="Hospedagem">
-        <label for="hospedagem">Reserva de hospedagem</label>
-        <input type="checkbox" name="aluguel" id="aluguel" value="Aluguel Carro">
-        <label for="aluguel">Aluguel de carro</label>
+        <div class="form-check mb-3">
+          <input type="checkbox" class="form-check-input" name="passagens" id="passagens" value="Passagens">
+          <label class="form-check-label" for="passagens">Compra de passagens</label>
+        </div>
+        <div class="form-check mb-3">
+          <input type="checkbox" class="form-check-input" name="hospedagem" id="hospedagem" value="Hospedagem">
+          <label class="form-check-label" for="hospedagem">Reserva de hospedagem</label>
+        </div>
+        <div class="form-check mb-3">
+          <input type="checkbox" class="form-check-input" name="aluguel" id="aluguel" value="Aluguel Carro">
+          <label class="form-check-label" for="aluguel">Aluguel de carro</label>
+        </div>
       </fieldset>
 
       <fieldset>
         <legend>Escolha a forma de pagamento</legend>
-        <input type="radio" name="payment" id="credito" value="Cartão de crédito">
-        <label for="credito">Cartão de crédito</label>
-
-        <input type="radio" name="payment" id="boleto" value="Boleto">
-        <label for="boleto">Boleto</label>
-
-        <input type="radio" name="payment" id="pix" value="Pix">
-        <label for="pix">Pix</label>
+        <div class="form-check mb-3">
+          <input type="radio" class="form-check-input" name="payment" id="credito" value="Cartão de crédito">
+          <label class="form-check-label" for="credito">Cartão de crédito</label>
+        </div>
+        <div class="form-check mb-3">
+          <input type="radio" class="form-check-input" name="payment" id="boleto" value="Boleto">
+          <label class="form-check-label" for="boleto">Boleto</label>
+        </div>
+        <div class="form-check mb-3">
+          <input type="radio" class="form-check-input" name="payment" id="pix" value="Pix">
+          <label class="form-check-label" for="pix">Pix</label>
+        </div>
       </fieldset>
 
-      <fieldset>
+      <fieldset class="mb-3">
         <legend>Escolha o prazo para pagamento</legend>
-        <select name="paymentTerm" id="paymentTerm">
+        <select class="form-select" name="paymentTerm" id="paymentTerm">
           <option value="avista">À vista</option>
           <option value="5x">5x sem juros</option>
           <option value="10x">10x sem juros</option>
         </select>
       </fieldset>
-      <label for="" id="message">Comentário</label>
-      <textarea name="message" id="message" cols="30" rows="10"></textarea>
 
-      <button type="submit">Salvar</button>
+      <div class="mb-3">
+        <label for="message">Comentário</label>
+        <textarea class="form-control" name="message" id="message" cols="30" rows="10"></textarea>
+      </div>
+
+      <div class="mb-3 text-center">
+        <button type="submit" class="btn btn-warning">Salvar</button>
+      </div>
     </form>
   </section>
-  <footer>
+
+  <footer class="container-fluid bg-warning">
     <p class="text-primary">Desenvolvido por Vitor Nogueira</p>
   </footer>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
