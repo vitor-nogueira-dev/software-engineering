@@ -1,0 +1,8 @@
+#### Pensar & Responder
+##### Atividade:
+​Pense em uma pessoa famosa, que você admira, que nasceu na sua cidade ou no seu estado. Imagine que essa pessoa virá para o local onde você mora hoje para uma rápida sessão de autógrafos e você foi a pessoa escolhida para gerenciar o projeto desse evento.
+Considerando o que vimos até aqui, descreva em poucas palavras o que você poderia utilizar como pontos principais para iniciar a gestão desse projeto tão interessante e desafiador.
+Você pode mencionar metodologias e ferramentas, mas use preferencialmente o que vimos nessa aula de gestão de tempo, custos, riscos e comunicação. E bom projeto!
+
+##### Resposta:
+Para a organização do evento de autógrafos de uma pessoa famosa da minha cidade, eu priorizaria alguns aspectos fundamentais: a gestão do tempo para assegurar a realização do evento dentro do prazo estipulado; o controle de custos para garantir que o evento se mantenha dentro do orçamento previsto; a gestão de riscos para prever e atenuar possíveis contratempos; e uma comunicação eficiente para manter todos os envolvidos informados e em sintonia. Para auxiliar nesse processo, eu utilizaria o gráfico de Gantt para planejar e monitorar as atividades, a linha de vida do projeto para acompanhar os custos, e a matriz de probabilidade e impacto para gerenciar os riscos. Além disso, manteria um diálogo aberto com a equipe e a celebridade para garantir um evento de sucesso.
