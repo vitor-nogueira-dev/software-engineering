@@ -19,7 +19,7 @@
 | dia_08 | Fase de testes                                |
 | dia_09 | Princípios, stakeholders e escopo             |
 | dia_10 | Gestão de tempo, custos, riscos e comunicação |
-
+| dia_11 | Canvas de projetos                            |
 </details>
 
 ---
