@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exercício</title>
+</head>
+<body>
+  
+</body>
+
+<script>
+  const listFootball = ['Flamengo', 'Vasco', 'Fluminense', 'Botafogo'];
+
+  const ul = document.createElement('ul');
+  listFootball.forEach((team) => {
+    const li = document.createElement('li');
+    li.innerText = team;
+    li.style.border = '1px solid blue';
+    ul.appendChild(li);
+  });
+
+  document.body.appendChild(ul);
+</script>
+</html>
