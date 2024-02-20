@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Janela de confirmação</title>
+</head>
+
+<body>
+  <button onclick="confirmation()">Clique aqui para sair</button>
+</body>
+<script>
+  function confirmation() {
+    let confirmation = confirm('Você deseja sair?')
+    if (confirmation) {
+      window.alert('Você saiu')
+    } else {
+      window.alert('Você não saiu')
+    }
+  }
+</script>
+
+</html>
