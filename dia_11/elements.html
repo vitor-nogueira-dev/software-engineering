@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <h1>Usando seletor do DOM</h1>
+  <ul>
+    <li>Java</li>
+    <li>Javascript</li>
+    <li>NodeJs</li>
+  </ul>
+  <div id="content" name="divcontent" class="message"></div>
+  <div name="divcontent" class="message"></div>
+  <div name="divcontent" class="message"></div>
+  <span class="newspan" id="new"></span>
+</body>
+<script>
+  const list = document.getElementsByTagName('li');
+  list[0].style.color = 'blue'
+  list[1].style.background = 'red'
+  list[2].textContent = 'ReactJs'
+  console.log(list)
+
+  const content = document.getElementById('content')
+  content.innerHTML = '<h2>Olá, mundo!</h2>'
+
+  const divContent = document.getElementsByName('divcontent')
+  divContent[1].innerHTML = '<h2>Olá, mundo!</h2>'
+
+  const divMessage = document.getElementsByClassName('message')
+  divMessage[2].innerHTML = '<h2>Olá, mundo!</h2>'
+
+  const newSpan = document.querySelector('span.newspan')
+  newSpan.innerHTML = '<h2>Olá, mundo!</h2>'
+
+  const message = document.querySelectorAll('.message')
+  message[0].innerHTML = '<h2>Olá, mundo!</h2>'
+</script>
+
+</html>
