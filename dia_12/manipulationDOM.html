@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trabalhando com DOM</title>
+</head>
+
+<body>
+  <div class="estilo">
+    Div com estilo 1
+  </div>
+  <div class="estilo">
+    Div com estilo 2
+  </div>
+  <p class="estilo">
+    Parágrafo com estilo
+  </p>
+  <p>Isso é <span class="estilo">Elemento span</span> dentro de um parágrafo</p>
+</body>
+<script>
+  const listStyle = document.querySelectorAll('.estilo');
+  listStyle.forEach((element) => {
+    element.style.background = 'blue';
+    element.style.color = 'white';
+    element.innerText = element.textContent.toUpperCase()
+  })
+</script>
+
+</html>
