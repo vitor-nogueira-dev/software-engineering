@@ -20,6 +20,7 @@
 | dia_08 | Strings                                        |
 | dia_09 | Funções e Objetos                              |
 | dia_10 | Classes                                        |
+| dia_11 | Manipulando Elementos do DOM                   |
 
 </details>
 
