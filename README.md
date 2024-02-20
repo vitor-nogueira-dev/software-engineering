@@ -6,7 +6,7 @@
 ### 📂 Branches e seus respectivos conteúdos
 ---
 <details>
-<summary>dinamyc-development</summary>
+<summary>dynamic-development</summary>
 
 | Pasta  | Conteúdo                                       |
 | ------ | ---------------------------------------------- |
