@@ -5,9 +5,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- <link rel="stylesheet" href="./styles.css"> -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
-    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+    crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+  <link rel="stylesheet" href="styles.css">
   <title>Agência Nogueira</title>
 </head>
 
@@ -31,10 +35,56 @@
             <li class="nav-item">
               <a class="nav-link" href="#">Contato</a>
             </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">
+                <i class="bi bi-cart2"></i>
+              </a>
+            </li>
           </ul>
         </div>
       </div>
     </nav>
+    <div id="carouselExampleCaptions" class="carousel slide h-50">
+      <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"
+          aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1"
+          aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2"
+          aria-label="Slide 3"></button>
+      </div>
+      <div class="carousel-inner ">
+        <div class="carousel-item active">
+          <img src="./img/carousel/balneario.jpg" class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Entre em contato e reserve sua viagem</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="./img/carousel/cataratas.jpg" class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Venha conhecer as Cataratas do Iguaçu</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="./img/carousel/chapada.jpg" class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Chapada dos Veadeiros: um paraíso natural</h5>
+          </div>
+        </div>
+
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions"
+        data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions"
+        data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
     <h1>Descubra Destinos Exclusivos: Sua Viagem dos Sonhos Começa Aqui!</h1>
   </header>
   <section class="container-fluid bg-light text-center p-5">
@@ -52,40 +102,60 @@
       <a href="https://www.google.com" class="btn btn-warning">Explore nossos destinos</a>
       <hr>
     </p>
-    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-      <div class="carousel-inner">
-        <div class="carousel-item active text-center">
-          <img src="./img/rio-de-janeiro.jpg" class="d-block mx-auto w-50"
-            alt="Pão de açúcar no Rio de Janeiro - Brasil">
-          <div class="carousel-caption d-none d-md-block">
-            <h5>Rio de Janeiro</h5>
+    <div>
+      <div class="">
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+          <div class="col">
+            <div class="card h-100">
+              <img src="./img/jericoacoara.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Jericoacoara</h5>
+                <h1 class="card-subtitle text-muted">R$5.000,00</h1>
+                <p class="card-text">Explore as belezas naturais de Jericoacoara, um dos destinos mais desejados do
+                  Brasil.</p>
+              </div>
+              <a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal"
+                class="btn btn-primary w-50 m-auto">Reservar</a>
+              <div class="card-footer">
+                <small class="text-body-secondary">Em até 24x</small>
+              </div>
+            </div>
           </div>
-        </div>
-        <div class="carousel-item text-center">
-          <img src="./img/porto-seguro.jpg" class="d-block mx-auto w-50" alt="Praia em Porto Seguro - Bahia - Brasil">
-          <div class="carousel-caption d-none d-md-block">
-            <h5>Porto Seguro</h5>
+          <div class="col">
+            <div class="card h-100">
+              <img src="./img/porto-seguro.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Porto Seguro</h5>
+                <h1 class="card-subtitle text-muted">R$3.000,00</h1>
+                <p class="card-text">Conheça as praias paradisíacas de Porto Seguro, um dos destinos mais procurados do
+                  Brasil.</p>
+              </div>
+              <a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal"
+                class="btn btn-primary w-50 m-auto">Reservar</a>
+              <div class="card-footer">
+                <small class="text-body-secondary">Em até 12x</small>
+              </div>
+            </div>
           </div>
-        </div>
-        <div class="carousel-item text-center">
-          <img src="./img/jericoacoara.jpg" class="d-block mx-auto w-50" alt="Praia em Jericoacoara - Ceará - Brasil">
-          <div class="carousel-caption d-none d-md-block">
-            <h5>Jericoacoara</h5>
+          <div class="col">
+            <div class="card h-100">
+              <img src="./img/rio-de-janeiro.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Rio de Janeiro</h5>
+                <h1 class="card-subtitle text-muted">R$2.000,00</h1>
+                <p class="card-text">Visite o Rio de Janeiro e conheça as belezas naturais e culturais da cidade
+                  maravilhosa.</p>
+              </div>
+              <a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal"
+                class="btn btn-primary w-50 m-auto">Reservar</a>
+              <div class="card-footer">
+                <small class="text-body-secondary">Em até 6x</small>
+              </div>
+            </div>
           </div>
         </div>
       </div>
-      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls"
-        data-bs-slide="prev">
-        <span class="carousel-control-prev-icon bg-warning rounded p-2" aria-hidden="true"></span>
-        <span class="visually-hidden">Anterior</span>
-      </button>
-      <button class="carousel-control-next " type="button" data-bs-target="#carouselExampleControls"
-        data-bs-slide="next">
-        <span class="carousel-control-next-icon bg-warning rounded p-2" aria-hidden="true"></span>
-        <span class="visually-hidden ">Próximo</span>
-      </button>
     </div>
-
 
   </section>
 
@@ -214,5 +284,23 @@
     integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
     crossorigin="anonymous"></script>
 </body>
+
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="exampleModalLabel">Reserva de pacote</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        Produto adicionado ao carrinho com sucesso!
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Continuar comprando</button>
+        <a href="checkout.html" type="button" class="btn btn-success">Finalizar compra</a>
+      </div>
+    </div>
+  </div>
+</div>
 
 </html>
