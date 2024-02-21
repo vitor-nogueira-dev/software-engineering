@@ -19,6 +19,7 @@
 | dia_08 | CSS: Criando estilos              |
 | dia_09 | Introdução ao BootStrap           |
 | dia_10 | Containers com BootStrap          |
+| dia_11 | Avançando com bootStrap           |
 
 </details>
 
