@@ -29,19 +29,20 @@
 <details>
 <summary>frontend-development</summary>
 
-| Pasta  | Conteúdo                          |
-| ------ | --------------------------------- |
-| dia_01 | Ambientes de Programação          |
-| dia_02 | Conceitos básicos de HTML         |
-| dia_03 | Mídias com HTML                   |
-| dia_04 | Montando tabelas com HTML         |
-| dia_05 | Criação de formulários com HTML   |
-| dia_06 | Continuação: formulários com HTML |
-| dia_07 | CSS: Entendendo sobre estilos     |
-| dia_08 | CSS: Criando estilos              |
-| dia_09 | Introdução ao BootStrap           |
-| dia_10 | Containers com BootStrap          |
-| dia_11 | Avançando com bootStrap           |
+| Pasta  | Conteúdo                              |
+| ------ | ------------------------------------- |
+| dia_01 | Ambientes de Programação              |
+| dia_02 | Conceitos básicos de HTML             |
+| dia_03 | Mídias com HTML                       |
+| dia_04 | Montando tabelas com HTML             |
+| dia_05 | Criação de formulários com HTML       |
+| dia_06 | Continuação: formulários com HTML     |
+| dia_07 | CSS: Entendendo sobre estilos         |
+| dia_08 | CSS: Criando estilos                  |
+| dia_09 | Introdução ao BootStrap               |
+| dia_10 | Containers com BootStrap              |
+| dia_11 | Avançando com bootStrap               |
+| dia_12 | Site com base em um modelo (template) |
 </details>
 
 <details>
