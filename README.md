@@ -43,7 +43,9 @@
 | dia_10              | Containers com BootStrap                          |
 | dia_11              | Avançando com bootStrap                           |
 | Não possui conteúdo | Site com base em um modelo (template), explicação |
-| dia_12              | Versionamento de código com Git                   |
+| dia_13              | Versionamento de código com Git                   |
+| Não possui conteúdo | GitHub Pages                                      |
+| dia_15              | O que é a internet?                               |
 </details>
 
 <details>
