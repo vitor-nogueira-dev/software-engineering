@@ -43,7 +43,7 @@
 | dia_10              | Containers com BootStrap                          |
 | dia_11              | Avançando com bootStrap                           |
 | Não possui conteúdo | Site com base em um modelo (template), explicação |
-
+| dia_12              | Versionamento de código com Git                   |
 </details>
 
 <details>
