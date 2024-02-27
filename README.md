@@ -21,6 +21,8 @@
 | dia_10 | Gestão de tempo, custos, riscos e comunicação    |
 | dia_11 | Canvas de projetos                               |
 | dia_12 | Execução e encerramento de projetos tradicionais |
+| dia_13 | Ágil e Scrum                                     |
+
 </details>
 
 ---
