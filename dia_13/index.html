@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="./js/cart.js"></script>
+  <title>Carrinho de compras</title>
+</head>
+
+<body>
+  <main class="w-100">
+    <div class="card">
+      <div class="row w-100">
+        <div class="col-md-12 cart">
+          <div class="title">
+            <div class="row">
+              <div class="col">
+                <h4><b>Shopping Cart</b></h4>
+              </div>
+              <div class="col align-self-center text-right text-muted">3 items</div>
+            </div>
+          </div>
+          <div class="row border-top border-bottom " id="produto0">
+            <div class="row main align-items-center">
+              <div class="col-2"><img class="img-fluid"
+                  src="https://http2.mlstatic.com/D_NQ_NP_905827-MLB70300216858_072023-O.webp"></div>
+              <div class="col">
+                <div class="row text-muted">Shirt</div>
+                <div class="row">Cotton T-shirt</div>
+
+              </div>
+              <div class="col">R$ 30,00</div>
+              <div class="col">
+                <span onclick="removeItem(0)">-</span>
+                <span class="border  p-2 rounded" id="quantidade0">0</span>
+                <span onclick="addItem(0)">+</span>
+              </div>
+              <div class="col">Total <span id="total0">R$ 0</span> <span class="close">&#10005;</span></div>
+            </div>
+          </div>
+          <div class="row" id="produto1">
+            <div class="row main align-items-center">
+              <div class="col-2"><img class="img-fluid"
+                  src="https://http2.mlstatic.com/D_NQ_NP_909618-MLB45257966123_032021-O.webp"></div>
+              <div class="col">
+                <div class="row text-muted">Shirt</div>
+                <div class="row">Cotton T-shirt</div>
+              </div>
+              <div class="col">R$ 40,00</div>
+              <div class="col">
+                <span onclick="removeItem(1)">-</span>
+                <span class="border  p-2 rounded" id="quantidade1">0</span>
+                <span onclick="addItem(1)">+</span>
+              </div>
+              <div class="col">Total <span id="total1">R$ 0</span> <span class="close">&#10005;</span></div>
+            </div>
+          </div>
+          <div class="row border-top border-bottom" id="produto2">
+            <div class="row main align-items-center">
+              <div class="col-2"><img class="img-fluid"
+                  src="https://http2.mlstatic.com/D_NQ_NP_710319-MLB52417749834_112022-W.jpg"></div>
+              <div class="col">
+                <div class="row text-muted">Shirt</div>
+                <div class="row">Cotton T-shirt</div>
+              </div>
+              <div class="col">R$ 50,00</div>
+              <div class="col">
+                <span onclick="removeItem(2)">-</span>
+                <span class="border p-2 rounded" id="quantidade2">0</span>
+                <span onclick="addItem(2)">+</span>
+              </div>
+              <div class="col">Total <span id="total2">R$ 0</span> <span class="close">&#10005;</span></div>
+            </div>
+          </div>
+          <div class="row w-75 p-3 pt-5 d-flex justify-content-center m-auto rounded">Total R$ <span
+              id="valorTotalCompra"></span></div>
+        </div>
+      </div>
+
+    </div>
+  </main>
+</body>
+
+</html>
