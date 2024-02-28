@@ -22,7 +22,7 @@
 | dia_10 | Classes                                        |
 | dia_11 | Manipulando Elementos do DOM                   |
 | dia_12 | Praticando uso do DOM                          |
-
+| dia_13 | Construindo um carrinho de compras             |
 </details>
 
 
