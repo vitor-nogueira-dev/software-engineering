@@ -47,6 +47,7 @@
 | dia_13              | Versionamento de código com Git                   |
 | Não possui conteúdo | GitHub Pages                                      |
 | dia_15              | O que é a internet?                               |
+
 </details>
 
 <details>
@@ -69,6 +70,8 @@
 | dia_13 | Ágil e Scrum                                     |
 | dia_14 | Planejamento e execução de um projeto ágil       |
 | dia_15 | Kanban e Lean                                    |
+| dia_16 | UX e Agilidade                                   |
+
 </details>
 
 ---
