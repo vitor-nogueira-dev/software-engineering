@@ -68,6 +68,7 @@
 | dia_12 | Execução e encerramento de projetos tradicionais |
 | dia_13 | Ágil e Scrum                                     |
 | dia_14 | Planejamento e execução de um projeto ágil       |
+| dia_15 | Kanban e Lean                                    |
 </details>
 
 ---
