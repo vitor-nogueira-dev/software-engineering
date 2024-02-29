@@ -24,6 +24,8 @@
 | dia_13 | Ágil e Scrum                                     |
 | dia_14 | Planejamento e execução de um projeto ágil       |
 | dia_15 | Kanban e Lean                                    |
+| dia_16 | UX e Agilidade                                   |
+
 </details>
 
 ---
