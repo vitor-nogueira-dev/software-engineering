@@ -24,7 +24,7 @@
 | dia_13              | Versionamento de código com Git                   |
 | Não possui conteúdo | GitHub Pages                                      |
 | dia_15              | O que é a internet?                               |
-
+| Não possui conteúdo | Entendimento do código fonte                      |
 </details>
 
 ---
