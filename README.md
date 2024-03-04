@@ -23,6 +23,7 @@
 | dia_12 | Praticando uso do DOM                          |
 | dia_13 | Construindo um carrinho de compras             |
 | dia_14 | Exception                                      |
+| dia_15 | Promise                                        |
 </details>
 
 ---
