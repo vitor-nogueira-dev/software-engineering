@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Produtos</title>
+</head>
+
+<body>
+  <h1>Produtos</h1>
+  <div id="cart-container"></div>
+</body>
+<script>
+  const url = 'https://fakestoreapi.com/products?limit=5';
+  fetch(url)
+    .then(response => response.json())
+    .then(data => {
+      fillCart(data);
+    }).catch(error => {
+      console.log('Ocorreu um erro:', error);
+    });
+
+  function fillCart(data) {
+    const cartContainer = document.getElementById('cart-container');
+    data.forEach(product => {
+      const productElement = document.createElement('div');
+      productElement.classList.add('product');
+      productElement.innerHTML = `
+          <h2>${product.title?.substring(0, 25)}</h2>
+          <p>${product.description?.substring(0, 100)}</p>
+          <img src="${product.image}" width="80px" alt="${product.title}">
+          <p>R$ ${product.price}</p>
+        `;
+      cartContainer.appendChild(productElement);
+    });
+
+  }
+</script>
+
+</html>
