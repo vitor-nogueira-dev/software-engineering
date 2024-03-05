@@ -25,7 +25,7 @@
 | dia_13 | Construindo um carrinho de compras             |
 | dia_14 | Exception                                      |
 | dia_15 | Promise                                        |
-
+| dia_16 | Manipulação de JSON                            |
 </details>
 
 
