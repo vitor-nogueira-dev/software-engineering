@@ -5,6 +5,7 @@
 
 ### 📂 Branches e seus respectivos conteúdos
 ---
+> Módulo 1A
 <details>
 <summary>dynamic-development</summary>
 
@@ -77,4 +78,16 @@
 </details>
 
 ---
+
+> Módulo 1B
+<details>
+<summary>computer-architecture</summary>
+</details>
+
+<details>
+<summary>programming-logic</summary>
+</details>
+
+--- 
+
 > ⭐️ Este README foi gerado com o [Code Mark](https://codemark.com.br) - uma poderosa ferramenta de geração de README drag in drop, que possibilita a criação fácil e rápida de documentos excepcionais. Explore a praticidade de destacar seu projeto com o Code Mark!
