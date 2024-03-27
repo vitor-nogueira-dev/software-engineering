@@ -91,6 +91,11 @@
 
 <details>
 <summary>programming-logic</summary>
+
+| Pasta  | Conteúdo                |
+| ------ | ----------------------- |
+| dia_01 | Introdução a Algoritmos |
+
 </details>
 
 --- 
