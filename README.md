@@ -82,6 +82,11 @@
 > Módulo 1B
 <details>
 <summary>computer-architecture</summary>
+
+| Pasta  | Conteúdo     |
+| ------ | ------------ |
+| dia_01 | A disciplina |
+
 </details>
 
 <details>
