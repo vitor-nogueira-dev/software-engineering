@@ -92,9 +92,10 @@
 <details>
 <summary>programming-logic</summary>
 
-| Pasta  | Conteúdo                |
-| ------ | ----------------------- |
-| dia_01 | Introdução a Algoritmos |
+| Pasta  | Conteúdo                               |
+| ------ | -------------------------------------- |
+| dia_01 | Introdução a Algoritmos                |
+| dia_02 | Tipos de Dados e Instruções Primitivas |
 
 </details>
 
