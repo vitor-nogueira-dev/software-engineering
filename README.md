@@ -8,9 +8,10 @@
 <details>
 <summary>📁 Visualize aqui </summary>
 
-| Pasta  | Conteúdo     |
-| ------ | ------------ |
-| dia_01 | A disciplina |
+| Pasta  | Conteúdo              |
+| ------ | --------------------- |
+| dia_01 | A disciplina          |
+| dia_02 | Sistemas de numeração |
 
 </details>
 
