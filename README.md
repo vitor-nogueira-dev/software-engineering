@@ -12,6 +12,7 @@
 | ------ | -------------------------------------- |
 | dia_01 | Introdução a Algoritmos                |
 | dia_02 | Tipos de Dados e Instruções Primitivas |
+| dia_03 | Variáveis e Constantes                 |
 
 </details>
 
