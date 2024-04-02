@@ -12,6 +12,7 @@
 | ------ | --------------------- |
 | dia_01 | A disciplina          |
 | dia_02 | Sistemas de numeração |
+| dia_03 | Algoritmos            |
 
 </details>
 
