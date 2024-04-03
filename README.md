@@ -8,11 +8,12 @@
 <details>
 <summary>📁 Visualize aqui </summary>
 
-| Pasta  | Conteúdo              |
-| ------ | --------------------- |
-| dia_01 | A disciplina          |
-| dia_02 | Sistemas de numeração |
-| dia_03 | Algoritmos            |
+| Pasta               | Conteúdo                  |
+| ------------------- | ------------------------- |
+| dia_01              | A disciplina              |
+| dia_02              | Sistemas de numeração     |
+| dia_03              | Algoritmos                |
+| Não possui conteúdo | Linguagens de Programação |
 
 </details>
 
