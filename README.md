@@ -83,11 +83,12 @@
 <details>
 <summary>computer-architecture</summary>
 
-| Pasta  | Conteúdo              |
-| ------ | --------------------- |
-| dia_01 | A disciplina          |
-| dia_02 | Sistemas de numeração |
-| dia_03 | Algoritmos            |
+| Pasta  | Conteúdo                  |
+| ------ | ------------------------- |
+| dia_01 | A disciplina              |
+| dia_02 | Sistemas de numeração     |
+| dia_03 | Algoritmos                |
+| dia_04 | Linguagens de Programação |
 
 </details>
 
