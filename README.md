@@ -14,6 +14,7 @@
 | dia_02              | Sistemas de numeração     |
 | dia_03              | Algoritmos                |
 | Não possui conteúdo | Linguagens de Programação |
+| dia_05              | Abstração de dados        |
 
 </details>
 
