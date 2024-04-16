@@ -102,6 +102,7 @@
 | dia_02 | Tipos de Dados e Instruções Primitivas  |
 | dia_03 | Variáveis e Constantes                  |
 | dia_04 | Entrada, Processamento e Saída de dados |
+| dia_05 | Estruturas de Decisão                   |
 
 </details>
 
