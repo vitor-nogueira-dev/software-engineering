@@ -91,6 +91,7 @@
 | Não possui conteúdo | Linguagens de Programação |
 | dia_05              | Abstração de dados        |
 | dia_06              | Engenharia de Software    |
+| dia_07              | Sistemas Operacionais     |
 
 </details>
 
