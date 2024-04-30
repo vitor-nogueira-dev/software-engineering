@@ -16,6 +16,7 @@
 | dia_04 | Entrada, Processamento e Saída de dados |
 | dia_05 | Estruturas de Decisão                   |
 | dia_06 | Estruturas de Repetição                 |
+| dia_07 | Vetor                                   |
 
 </details>
 
