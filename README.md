@@ -107,6 +107,7 @@
 | dia_05 | Estruturas de Decisão                   |
 | dia_06 | Estruturas de Repetição                 |
 | dia_07 | Vetor                                   |
+| dia_08 | Matriz                                  |
 
 </details>
 
