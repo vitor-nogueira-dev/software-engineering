@@ -18,6 +18,7 @@
 | dia_06              | Engenharia de Software    |
 | dia_07              | Sistemas Operacionais     |
 | dia_08              | Redes de Computadores     |
+| dia_09              | Circuitos Lógicos         |
 
 </details>
 
