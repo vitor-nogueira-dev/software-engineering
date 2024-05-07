@@ -110,6 +110,7 @@
 | dia_06 | Estruturas de Repetição                 |
 | dia_07 | Vetor                                   |
 | dia_08 | Matriz                                  |
+| dia_09 | Procedimentos sem Parâmetros            |
 
 </details>
 
