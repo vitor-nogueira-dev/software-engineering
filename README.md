@@ -19,6 +19,7 @@
 | dia_07 | Vetor                                   |
 | dia_08 | Matriz                                  |
 | dia_09 | Procedimentos sem Parâmetros            |
+| dia_10 | Procedimentos com Parâmetros            |
 
 </details>
 
