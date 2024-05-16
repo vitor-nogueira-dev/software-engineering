@@ -95,6 +95,7 @@
 | dia_08              | Redes de Computadores            |
 | dia_09              | Circuitos Lógicos                |
 | dia_10              | Mineração de dados (Data Mining) |
+| dia_11              | Banco de Dados                   |
 
 </details>
 
@@ -112,6 +113,7 @@
 | dia_07 | Vetor                                   |
 | dia_08 | Matriz                                  |
 | dia_09 | Procedimentos sem Parâmetros            |
+| dia_10 | Procedimentos com Parâmetros            |
 
 </details>
 
