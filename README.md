@@ -20,6 +20,7 @@
 | dia_08              | Redes de Computadores            |
 | dia_09              | Circuitos Lógicos                |
 | dia_10              | Mineração de dados (Data Mining) |
+| dia_11              | Banco de dados                   |
 
 </details>
 
