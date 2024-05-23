@@ -22,6 +22,7 @@
 | dia_10 | Procedimentos com Parâmetros            |
 | dia_11 | Funções sem Parâmetros                  |
 | dia_12 | Funções com Parâmetros                  |
+| dia_13 | Visão Geral da Linguagem Java           |
 
 </details>
 
