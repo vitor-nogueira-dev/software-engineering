@@ -115,6 +115,7 @@
 | dia_09 | Procedimentos sem Parâmetros            |
 | dia_10 | Procedimentos com Parâmetros            |
 | dia_11 | Funções sem Parâmetros                  |
+| dia_12 | Funções com Parâmetros                  |
 
 </details>
 
