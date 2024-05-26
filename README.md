@@ -25,6 +25,7 @@
 | dia_13 | Visão Geral da Linguagem Java           |
 | dia_14 | Introdução à Linguagem Java             |
 | dia_15 | Estrutura de Controle no Java           |
+| dia_16 | Módulos e Matrizes em Java              |
 
 </details>
 
