@@ -116,7 +116,8 @@
 | dia_10 | Procedimentos com Parâmetros            |
 | dia_11 | Funções sem Parâmetros                  |
 | dia_12 | Funções com Parâmetros                  |
-| dia_13 | Introdução à Linguagem Java             |
+| dia_13 | Visão Geral da Linguagem Java           |
+| dia_14 | Introdução à Linguagem Java             |
 
 </details>
 
