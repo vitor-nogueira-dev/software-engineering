@@ -10,7 +10,7 @@
 | Pasta  | Conteúdo           |
 | ------ | ------------------ |
 | dia_01 | Design de Software |
-
+| dia_02 | Objetos e Classes  |
 
 </details>
 
