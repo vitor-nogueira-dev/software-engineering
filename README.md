@@ -148,7 +148,7 @@
 | Pasta  | Conteúdo                          |
 | ------ | --------------------------------- |
 | dia_01 | Entendendo as estruturas de dados |
-
+| dia_02 | Entendendo Vetores e Matrizes     |
 
 </details>
 <details>
