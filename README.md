@@ -11,6 +11,7 @@
 | ------ | --------------------------------- |
 | dia_01 | Entendendo as estruturas de dados |
 | dia_02 | Entendendo Vetores e Matrizes     |
+| dia_03 | Entendendo Ordenação              |
 
 </details>
 
