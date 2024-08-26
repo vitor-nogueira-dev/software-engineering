@@ -7,11 +7,11 @@
 
 <summary>object-oriented-developer</summary>
 
-| Pasta  | Conteúdo           |
-| ------ | ------------------ |
-| dia_01 | Design de Software |
-| dia_02 | Objetos e Classes  |
-
+| Pasta  | Conteúdo                                                           |
+| ------ | ------------------------------------------------------------------ |
+| dia_01 | Design de Software                                                 |
+| dia_02 | Objetos e Classes                                                  |
+| dia_03 | Classes Abstratas, interfaces e princípios da Orientação a Objetos |
 </details>
 
 --- 
