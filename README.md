@@ -11,6 +11,7 @@
 | ------------ | ------------------------------------------ |
 | dia_01       | Introdução à linguagem de programação Java |
 | Sem conteúdo | Ambiente Java                              |
+| dia_03       | Operadores                                 |
 
 </details>
 
