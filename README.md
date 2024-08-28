@@ -136,7 +136,7 @@
 | dia_01 | Design de Software                                                 |
 | dia_02 | Objetos e Classes                                                  |
 | dia_03 | Classes Abstratas, interfaces e princípios da Orientação a Objetos |
-
+| dia_04 | Outros conceitos de orientação a objetos                           |
 
 </details>
 
