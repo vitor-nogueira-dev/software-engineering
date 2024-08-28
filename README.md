@@ -12,6 +12,8 @@
 | dia_01       | Introdução à linguagem de programação Java |
 | Sem conteúdo | Ambiente Java                              |
 | dia_03       | Operadores                                 |
+| Sem conteúdo | Instrução Java                             |
+| dia_05       | Intruções de loop                          |
 
 </details>
 
