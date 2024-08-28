@@ -151,6 +151,7 @@
 | dia_02 | Entendendo Vetores e Matrizes     |
 | dia_03 | Entendendo Ordenação              |
 | dia_04 | Entendendo Recursão I             |
+| dia_05 | Entendendo Recursão II            |
 
 </details>
 <details>
