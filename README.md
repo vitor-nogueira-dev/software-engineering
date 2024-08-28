@@ -5,7 +5,7 @@
 
 <details>
 
-<summary>object-oriented-developer</summary>
+<summary>software-design</summary>
 
 | Pasta  | Conteúdo                                                           |
 | ------ | ------------------------------------------------------------------ |
@@ -13,6 +13,7 @@
 | dia_02 | Objetos e Classes                                                  |
 | dia_03 | Classes Abstratas, interfaces e princípios da Orientação a Objetos |
 | dia_04 | Outros conceitos de orientação a objetos                           |
+| dia_05 | Conceitos finais de OO e Requisitos                                |
 </details>
 
 --- 
