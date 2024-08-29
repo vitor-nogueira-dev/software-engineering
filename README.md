@@ -153,6 +153,7 @@
 | dia_03       | Entendendo Ordenação              |
 | dia_04       | Entendendo Recursão I             |
 | Sem conteúdo | Entendendo Recursão II            |
+| dia_06       | Entendendo Pilhas                 |
 
 </details>
 <details>
