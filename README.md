@@ -145,13 +145,13 @@
 
 <summary>data-structure</summary>
 
-| Pasta  | Conteúdo                          |
-| ------ | --------------------------------- |
-| dia_01 | Entendendo as estruturas de dados |
-| dia_02 | Entendendo Vetores e Matrizes     |
-| dia_03 | Entendendo Ordenação              |
-| dia_04 | Entendendo Recursão I             |
-| dia_05 | Entendendo Recursão II            |
+| Pasta        | Conteúdo                          |
+| ------------ | --------------------------------- |
+| dia_01       | Entendendo as estruturas de dados |
+| dia_02       | Entendendo Vetores e Matrizes     |
+| dia_03       | Entendendo Ordenação              |
+| dia_04       | Entendendo Recursão I             |
+| Sem conteúdo | Entendendo Recursão II            |
 
 </details>
 <details>
