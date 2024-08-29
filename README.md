@@ -14,6 +14,7 @@
 | dia_03 | Classes Abstratas, interfaces e princípios da Orientação a Objetos |
 | dia_04 | Outros conceitos de orientação a objetos                           |
 | dia_05 | Conceitos finais de OO e Requisitos                                |
+| dia_06 | Iniciando com UML                                                  |
 </details>
 
 --- 
