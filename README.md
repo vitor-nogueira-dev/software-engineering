@@ -167,6 +167,7 @@
 | dia_03       | Operadores                                 |
 | Sem conteúdo | Instrução Java                             |
 | dia_05       | Intruções de loop                          |
+| dia_06       | Strings e Arrays                           |
  
 </details>
 
