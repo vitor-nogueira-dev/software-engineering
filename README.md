@@ -14,6 +14,7 @@
 | dia_03       | Operadores                                 |
 | Sem conteúdo | Instrução Java                             |
 | dia_05       | Intruções de loop                          |
+| Sem conteúdo | Strings e Arrays                           |
 
 </details>
 
