@@ -139,6 +139,7 @@
 | dia_04 | Outros conceitos de orientação a objetos                           |
 | dia_05 | Conceitos finais de OO e Requisitos                                |
 | dia_06 | Iniciando com UML                                                  |
+| dia_07 | Diagrama de Caso de Uso                                            |
 
 </details>
 
