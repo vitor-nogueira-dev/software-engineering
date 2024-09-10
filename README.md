@@ -140,6 +140,8 @@
 | dia_05 | Conceitos finais de OO e Requisitos                                |
 | dia_06 | Iniciando com UML                                                  |
 | dia_07 | Diagrama de Caso de Uso                                            |
+| dia_08 | Diagrama de Classe                                                 |
+| dia_09 | Diagrama de Sequência                                              |
 
 </details>
 
