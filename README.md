@@ -157,8 +157,9 @@
 | dia_04       | Entendendo Recursão I             |
 | Sem conteúdo | Entendendo Recursão II            |
 | dia_06       | Entendendo Pilhas                 |
-| dia_07       | Entendendo as Aplicações de Pilha |
+| Sem conteúdo | Entendendo as Aplicações de Pilha |
 | dia_08       | Entendendo Filas                  |
+| Sem conteúdo | Entendendo as Aplicações de Fila  |
 
 </details>
 <details>
