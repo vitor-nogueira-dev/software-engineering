@@ -158,6 +158,7 @@
 | Sem conteúdo | Entendendo Recursão II            |
 | dia_06       | Entendendo Pilhas                 |
 | dia_07       | Entendendo as Aplicações de Pilha 
+| dia_08       | Entendendo Filas                  |
 
 </details>
 <details>
