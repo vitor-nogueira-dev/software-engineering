@@ -17,6 +17,7 @@
 | dia_06       | Entendendo Pilhas                 |
 | Sem conteúdo | Entendendo as Aplicações de Pilha |
 | dia_08       | Entendendo Filas                  |
+| Sem conteúdo | Entendendo as Aplicações de Fila  |
 
 </details>
 
