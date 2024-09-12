@@ -174,7 +174,8 @@
 | Sem conteúdo | Instrução Java                             |
 | dia_05       | Intruções de loop                          |
 | Sem conteúdo | Strings e Arrays                           |
- 
+| dia_07       | Conceitos POO em Java                      |
+
 </details>
 
 > ⭐️ Este README foi gerado com o [Code Mark](https://codemark.com.br) - uma poderosa ferramenta de geração de README drag in drop, que possibilita a criação fácil e rápida de documentos excepcionais. Explore a praticidade de destacar seu projeto com o Code Mark!
