@@ -15,6 +15,8 @@
 | Sem conteúdo | Instrução Java                             |
 | dia_05       | Intruções de loop                          |
 | Sem conteúdo | Strings e Arrays                           |
+| Sem conteúdo | Conceitos POO em Java                      |
+| dia_08       | Modificadores de Acesso                    |
 
 </details>
 
