@@ -142,6 +142,7 @@
 | dia_07 | Diagrama de Caso de Uso                                            |
 | dia_08 | Diagrama de Classe                                                 |
 | dia_09 | Diagrama de Sequência                                              |
+| dia_10 | Diagrama de Atividades                                             |
 
 </details>
 
