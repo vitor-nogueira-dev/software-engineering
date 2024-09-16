@@ -17,8 +17,8 @@
 | Sem conteúdo | Strings e Arrays                           |
 | Sem conteúdo | Conceitos POO em Java                      |
 | Sem conteúdo | Modificadores de Acesso                    |
-| dia_09       | Trabalhando com String                     |
-
+| Sem conteúdo | Trabalhando com String                     |
+| dia_10       | Usando Collections (parte 01)              |
 
 </details>
 
