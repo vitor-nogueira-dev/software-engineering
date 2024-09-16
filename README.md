@@ -161,7 +161,7 @@
 | Sem conteúdo | Entendendo as Aplicações de Pilha    |
 | dia_08       | Entendendo Filas                     |
 | Sem conteúdo | Entendendo as Aplicações de Fila     |
-| dia_09       | Entendendo os Elementos Lista Ligada |
+| dia_10       | Entendendo os Elementos Lista Ligada |
 
 </details>
 <details>
@@ -176,7 +176,10 @@
 | Sem conteúdo | Instrução Java                             |
 | dia_05       | Intruções de loop                          |
 | Sem conteúdo | Strings e Arrays                           |
-| dia_07       | Conceitos POO em Java                      |
+| Sem conteúdo | Conceitos POO em Java                      |
+| Sem conteúdo | Modificadores de acesso                    |
+| Sem conteúdo | Trabalhando com String                     |
+| dia_10       | Usando Collection (parte 01)               |
 
 </details>
 
