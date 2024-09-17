@@ -21,6 +21,7 @@
 | dia_10 | Diagrama de Atividades                                             |
 | dia_11 | Diagrama de Comunicação                                            |
 | dia_12 | Diagrama de Máquina de Estado                                      |
+| dia_13 | Diagrama de Componentes                                            |
 
 </details>
 
