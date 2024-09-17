@@ -143,6 +143,7 @@
 | dia_08 | Diagrama de Classe                                                 |
 | dia_09 | Diagrama de Sequência                                              |
 | dia_10 | Diagrama de Atividades                                             |
+| dia_11 | Diagrama de Comunicação                                            |
 
 </details>
 
