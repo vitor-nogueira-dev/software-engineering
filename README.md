@@ -19,6 +19,8 @@
 | dia_08       | Entendendo Filas                     |
 | Sem conteúdo | Entendendo as Aplicações de Fila     |
 | dia_10       | Entendendo os Elementos Lista Ligada |
+| dia_11       | Entendendo a Lista Ligada            |
+
 </details>
 
 --- 
