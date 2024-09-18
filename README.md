@@ -153,19 +153,21 @@
 
 <summary>data-structure</summary>
 
-| Pasta        | Conteúdo                             |
-| ------------ | ------------------------------------ |
-| dia_01       | Entendendo as estruturas de dados    |
-| dia_02       | Entendendo Vetores e Matrizes        |
-| dia_03       | Entendendo Ordenação                 |
-| dia_04       | Entendendo Recursão I                |
-| Sem conteúdo | Entendendo Recursão II               |
-| dia_06       | Entendendo Pilhas                    |
-| Sem conteúdo | Entendendo as Aplicações de Pilha    |
-| dia_08       | Entendendo Filas                     |
-| Sem conteúdo | Entendendo as Aplicações de Fila     |
-| dia_10       | Entendendo os Elementos Lista Ligada |
-| dia_11       | Entendendo a Lista Ligada            |
+| Pasta        | Conteúdo                                 |
+| ------------ | ---------------------------------------- |
+| dia_01       | Entendendo as estruturas de dados        |
+| dia_02       | Entendendo Vetores e Matrizes            |
+| dia_03       | Entendendo Ordenação                     |
+| dia_04       | Entendendo Recursão I                    |
+| Sem conteúdo | Entendendo Recursão II                   |
+| dia_06       | Entendendo Pilhas                        |
+| Sem conteúdo | Entendendo as Aplicações de Pilha        |
+| dia_08       | Entendendo Filas                         |
+| Sem conteúdo | Entendendo as Aplicações de Fila         |
+| dia_10       | Entendendo os Elementos Lista Ligada     |
+| dia_11       | Entendendo a Lista Ligada                |
+| dia_12       | Entendendo as Aplicações da Lista Ligada |
+| dia_13       | Entendendo Árvores                       |
 
 </details>
 <details>
@@ -184,6 +186,7 @@
 | Sem conteúdo | Modificadores de acesso                    |
 | Sem conteúdo | Trabalhando com String                     |
 | dia_10       | Usando Collection (parte 01)               |
+| dia_11       | Usando Collection (parte 02)               |
 
 </details>
 
