@@ -21,6 +21,7 @@
 | dia_10       | Entendendo os Elementos Lista Ligada     |
 | dia_11       | Entendendo a Lista Ligada                |
 | dia_12       | Entendendo as Aplicações da Lista Ligada |
+| dia_13       | Entendendo Árvores                       |
 
 </details>
 
