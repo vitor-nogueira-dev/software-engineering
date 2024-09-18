@@ -19,6 +19,7 @@
 | Sem conteúdo | Modificadores de Acesso                    |
 | Sem conteúdo | Trabalhando com String                     |
 | dia_10       | Usando Collections (parte 01)              |
+| dia_11       | Usando Collection (parte 02)               |
 
 </details>
 
