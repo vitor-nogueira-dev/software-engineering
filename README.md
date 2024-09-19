@@ -22,6 +22,7 @@
 | dia_11       | Usando Collection (parte 02)               |
 | Sem conteúdo | Banco de Dados com Java                    |
 | Sem conteúdo | Exceções                                   |
+| dia_14 | Exceções Direcionadas                      |
 
 </details>
 
