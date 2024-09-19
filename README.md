@@ -20,6 +20,8 @@
 | Sem conteúdo | Trabalhando com String                     |
 | dia_10       | Usando Collections (parte 01)              |
 | dia_11       | Usando Collection (parte 02)               |
+| Sem conteúdo | Banco de Dados com Java                    |
+| Sem conteúdo | Exceções                                   |
 
 </details>
 
