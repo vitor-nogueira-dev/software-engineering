@@ -187,6 +187,10 @@
 | Sem conteúdo | Trabalhando com String                     |
 | dia_10       | Usando Collection (parte 01)               |
 | dia_11       | Usando Collection (parte 02)               |
+| Sem conteúdo | Banco de Dados com Java                    |
+| Sem conteúdo | Exceções                                   |
+| dia_14       | Exceções Direcionadas                      |
+| Sem conteúdo | Trabalhando com Arquivos                   |
 
 </details>
 
