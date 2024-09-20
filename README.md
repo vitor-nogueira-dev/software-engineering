@@ -169,6 +169,8 @@
 | dia_12       | Entendendo as Aplicações da Lista Ligada |
 | dia_13       | Entendendo Árvores                       |
 | dia_14       | Entendendo Árvores Binárias              |
+| dia_15       | Entendendo os Percursos em Árvores       |
+| Sem conteúdo | Projeto com Árvore Binária               |
 
 </details>
 <details>
