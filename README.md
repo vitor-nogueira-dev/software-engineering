@@ -24,6 +24,7 @@
 | dia_13       | Entendendo Árvores                       |
 | dia_14       | Entendendo Árvores Binárias              |
 | dia_15       | Entendendo os Percursos em Árvores       |
+| Sem conteúdo | Projeto com Árvore Binária               |
 
 </details>
 
