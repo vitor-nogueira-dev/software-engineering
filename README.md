@@ -24,6 +24,7 @@
 | Sem conteúdo | Exceções                                   |
 | dia_14       | Exceções Direcionadas                      |
 | Sem conteúdo | Trabalhando com Arquivos                   |
+| dia_16       | Threads                                    |
 
 </details>
 
