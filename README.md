@@ -131,22 +131,24 @@
 
 <summary>software-design</summary>
 
-| Pasta  | Conteúdo                                                           |
-| ------ | ------------------------------------------------------------------ |
-| dia_01 | Design de Software                                                 |
-| dia_02 | Objetos e Classes                                                  |
-| dia_03 | Classes Abstratas, interfaces e princípios da Orientação a Objetos |
-| dia_04 | Outros conceitos de orientação a objetos                           |
-| dia_05 | Conceitos finais de OO e Requisitos                                |
-| dia_06 | Iniciando com UML                                                  |
-| dia_07 | Diagrama de Caso de Uso                                            |
-| dia_08 | Diagrama de Classe                                                 |
-| dia_09 | Diagrama de Sequência                                              |
-| dia_10 | Diagrama de Atividades                                             |
-| dia_11 | Diagrama de Comunicação                                            |
-| dia_12 | Diagrama de Máquina de Estado                                      |
-| dia_13 | Diagrama de Componentes                                            |
-| dia_14 | Utilização de Ferramentas UML                                      |
+| Pasta        | Conteúdo                                                           |
+| ------------ | ------------------------------------------------------------------ |
+| dia_01       | Design de Software                                                 |
+| dia_02       | Objetos e Classes                                                  |
+| dia_03       | Classes Abstratas, interfaces e princípios da Orientação a Objetos |
+| dia_04       | Outros conceitos de orientação a objetos                           |
+| dia_05       | Conceitos finais de OO e Requisitos                                |
+| dia_06       | Iniciando com UML                                                  |
+| dia_07       | Diagrama de Caso de Uso                                            |
+| dia_08       | Diagrama de Classe                                                 |
+| dia_09       | Diagrama de Sequência                                              |
+| dia_10       | Diagrama de Atividades                                             |
+| dia_11       | Diagrama de Comunicação                                            |
+| dia_12       | Diagrama de Máquina de Estado                                      |
+| dia_13       | Diagrama de Componentes                                            |
+| Sem conteúdo | Utilização de Ferramentas UML                                      |
+| dia_15       | Diagrama de Pacote e Implantação                                   |
+| dia_16       | Diagrama de Estrutura Composta e tempo                             |
 
 </details>
 
