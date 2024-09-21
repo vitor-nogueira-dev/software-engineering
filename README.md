@@ -146,6 +146,7 @@
 | dia_11 | Diagrama de Comunicação                                            |
 | dia_12 | Diagrama de Máquina de Estado                                      |
 | dia_13 | Diagrama de Componentes                                            |
+| dia_14 | Utilização de Ferramentas UML                                      |
 
 </details>
 
