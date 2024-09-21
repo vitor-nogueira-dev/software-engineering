@@ -24,6 +24,7 @@
 | dia_13       | Diagrama de Componentes                                            |
 | Sem conteúdo | Utilização de Ferramentas UML                                      |
 | dia_15       | Diagrama de Pacote e Implantação                                   |
+| dia_16       | Diagrama de Estrutura Composta e tempo                             |
 
 </details>
 
