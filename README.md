@@ -23,6 +23,7 @@
 | dia_12       | Diagrama de Máquina de Estado                                      |
 | dia_13       | Diagrama de Componentes                                            |
 | Sem conteúdo | Utilização de Ferramentas UML                                      |
+| dia_15       | Diagrama de Pacote e Implantação                                   |
 
 </details>
 
