@@ -219,9 +219,9 @@
 
 <summary>integrative-practice-software-development</summary>
 
-| Pasta  | Conteúdo                                        |
-| ------ | ----------------------------------------------- |
-| dia_01 | Apresentação de ferramentas e conceitos básicos |
+| Pasta        | Conteúdo                                        |
+| ------------ | ----------------------------------------------- |
+| Sem conteúdo | Apresentação de ferramentas e conceitos básicos |
 
 </details>
 
