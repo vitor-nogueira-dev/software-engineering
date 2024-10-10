@@ -223,6 +223,7 @@
 | Pasta        | Conteúdo                                        |
 | ------------ | ----------------------------------------------- |
 | Sem conteúdo | Apresentação de ferramentas e conceitos básicos |
+| dia_02       | Elementos Básicos do HTML                       |
 
 </details>
 
