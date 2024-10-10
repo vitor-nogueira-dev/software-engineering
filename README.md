@@ -10,6 +10,7 @@
 | Pasta  | Conteúdo                                  |
 | ------ | ----------------------------------------- |
 | dia_01 | Introdução aos Sistemas de Banco de Dados |
+| dia_02 | Projeto de Banco de Dados                 |
 
 
 </details>
