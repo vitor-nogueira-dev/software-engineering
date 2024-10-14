@@ -11,6 +11,7 @@
 | ------------ | ----------------------------------------------- |
 | Sem conteúdo | Apresentação de ferramentas e conceitos básicos |
 | dia_02       | Elementos Básicos do HTML                       |
+| dia_03       | Tabelas em HTML                                 |
 
 
 </details>
