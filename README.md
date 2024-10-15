@@ -11,6 +11,7 @@
 | ------ | ----------------------------------------- |
 | dia_01 | Introdução aos Sistemas de Banco de Dados |
 | dia_02 | Projeto de Banco de Dados                 |
+| dia_03 | Modelagem Conceitual                      |
 
 
 </details>
