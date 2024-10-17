@@ -46,6 +46,60 @@
         </tr>
       </tbody>
     </table>
+
+    <form action="/cadastrar_estoque" method="post">
+      <fieldset>
+        <legend>Cadastro de Produtos</legend>
+        <table>
+          <tr>
+            <td>
+              <label for="codigo_produto">Código do Produto</label>
+            </td>
+            <td>
+              <input type="text" id="codigo_produto" name="codigo_produto" required>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <label for="descricao_produto">Descrição do Produto</label>
+            </td>
+            <td>
+              <input type="text" id="descricao_produto" name="descricao_produto" required>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <label for="preco">Preço</label>
+            </td>
+            <td>
+              <input type="number" id="preco" name="preco" step="0.01" required>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <label for="quantidade">Quantidade</label>
+            </td>
+            <td>
+              <input type="number" id="quantidade" name="quantidade" required>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <label for="atualizacao_produto">Data de Atualização</label>
+            </td>
+            <td>
+              <input type="date" name="atualizacao_produto" id="atualizacao_produto">
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2" style="text-align: center;">
+              <input type="submit" value="Cadastrar">
+              <input type="reset" value="Resetar">
+            </td>
+          </tr>
+        </table>
+      </fieldset>
+    </form>
   </main>
 </body>
 
