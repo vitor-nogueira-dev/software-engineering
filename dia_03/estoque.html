@@ -5,6 +5,101 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Tabelas com HTML</title>
+  <style>
+    body {
+      font-size: 20px;
+      font-family: sans-serif;
+      margin: 20px;
+      background-color: #f4f4f9;
+    }
+
+    h2 {
+      color: #333;
+      font-weight: bold;
+    }
+
+    table {
+      border-collapse: collapse;
+      margin-bottom: 20px;
+    }
+
+    table,
+    th,
+    td {
+      border: 1px solid #ccc;
+    }
+
+    th,
+    td {
+      padding: 8px;
+      text-align: left;
+    }
+
+    th {
+      background-color: #f2f2f2;
+    }
+
+    fieldset {
+      max-width: 600px;
+      background-color: #fff;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+    }
+
+    fieldset table {
+      width: 100%;
+      border: none;
+    }
+
+    fieldset table td {
+      padding: 8px;
+      border: none;
+    }
+
+    input[type="text"],
+    input[type="number"],
+    input[type="date"] {
+      width: 100%;
+      padding: 8px;
+      margin: 4px 0;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+      border-radius: 4px;
+    }
+
+    input[type="submit"],
+    input[type="reset"] {
+      padding: 10px 20px;
+      border: none;
+      color: white;
+      cursor: pointer;
+      border-radius: 4px;
+      font-size: 16px;
+      width: 30%;
+      transition-property: width;
+      transition-duration: 0.5s;
+
+    }
+
+    input[type="submit"] {
+      background-color: #4CAF50;
+    }
+
+    input[type="reset"] {
+      background-color: #f44336;
+    }
+
+    input[type="submit"]:hover {
+      background-color: #45a049;
+      width: 40%;
+    }
+
+    input[type="reset"]:hover {
+      background-color: #b80e22;
+      width: 40%;
+    }
+  </style>
 </head>
 
 <body>
