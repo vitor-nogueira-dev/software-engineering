@@ -228,6 +228,7 @@
 | dia_03       | Tabelas em HTML                                 |
 | dia_04       | Formulários                                     |
 | dia_05       | Introdução ao CSS                               |
+| dia_06       | Estilos CSS                                     |
 
 </details>
 
