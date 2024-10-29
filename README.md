@@ -7,12 +7,13 @@
 <details>
 <summary>📂 Visualize aqui</summary>
 
-| Pasta  | Conteúdo                                  |
-| ------ | ----------------------------------------- |
-| dia_01 | Introdução aos Sistemas de Banco de Dados |
-| dia_02 | Projeto de Banco de Dados                 |
-| dia_03 | Modelagem Conceitual                      |
-| dia_04 | Modelagem Lógica                          |
+| Pasta        | Conteúdo                                  |
+| ------------ | ----------------------------------------- |
+| dia_01       | Introdução aos Sistemas de Banco de Dados |
+| dia_02       | Projeto de Banco de Dados                 |
+| dia_03       | Modelagem Conceitual                      |
+| dia_04       | Modelagem Lógica                          |
+| Sem Conteúdo | Instalação das Ferramentas                |
 
 
 </details>
