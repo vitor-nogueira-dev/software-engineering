@@ -231,6 +231,7 @@
 | dia_04       | Formulários                                     |
 | dia_05       | Introdução ao CSS                               |
 | dia_06       | Estilos CSS                                     |
+| dia_06       | Introdução ao Javascript                        |
 
 </details>
 
