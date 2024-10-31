@@ -216,6 +216,7 @@
 | dia_03       | Modelagem Conceitual                      |
 | dia_04       | Modelagem Lógica                          |
 | Sem Conteúdo | Instalação das Ferramentas                |
+| dia_06       | Princípios do comando SQL                 |
 
 </details>
 
