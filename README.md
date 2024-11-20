@@ -234,6 +234,7 @@
 | dia_05       | Introdução ao CSS                               |
 | dia_06       | Estilos CSS                                     |
 | dia_07       | Introdução ao Javascript                        |
+| dia_08       | Funções                                         |
 
 </details>
 
