@@ -17,6 +17,7 @@
 | dia_06       | Estilos CSS                                     |
 | dia_07       | Introdução ao Javascript                        |
 | dia_08       | Funções                                         |
+| dia_09       | Operadores                                      |
 
 </details>
 
