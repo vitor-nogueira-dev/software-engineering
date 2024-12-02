@@ -18,7 +18,7 @@
 | dia_07       | Introdução ao Javascript                        |
 | dia_08       | Funções                                         |
 | dia_09       | Operadores                                      |
-| dia_10       | Instruções                                      |
+| Sem Conteúdo | Instruções                                      |
 
 </details>
 
