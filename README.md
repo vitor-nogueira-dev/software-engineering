@@ -218,6 +218,7 @@
 | Sem Conteúdo | Instalação das Ferramentas                |
 | dia_06       | Princípios do comando SQL                 |
 | Sem Conteúdo | Prática em um Projeto Completo            |
+| dia_08       | Consultas mais complexas                  |
 
 </details>
 
