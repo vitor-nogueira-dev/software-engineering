@@ -7,17 +7,18 @@
 <details>
 <summary>📂 Visualize aqui</summary>
 
-| Pasta        | Conteúdo                                  |
-| ------------ | ----------------------------------------- |
-| dia_01       | Introdução aos Sistemas de Banco de Dados |
-| dia_02       | Projeto de Banco de Dados                 |
-| dia_03       | Modelagem Conceitual                      |
-| dia_04       | Modelagem Lógica                          |
-| Sem Conteúdo | Instalação das Ferramentas                |
-| dia_06       | Princípios do comando SQL                 |
-| Sem Conteúdo | Prática em um Projeto Completo            |
-| Sem Conteúdo | Consultas mais complexas                  |
-
+| Pasta        | Conteúdo                                           |
+| ------------ | -------------------------------------------------- |
+| dia_01       | Introdução aos Sistemas de Banco de Dados          |
+| dia_02       | Projeto de Banco de Dados                          |
+| dia_03       | Modelagem Conceitual                               |
+| dia_04       | Modelagem Lógica                                   |
+| Sem Conteúdo | Instalação das Ferramentas                         |
+| dia_06       | Princípios do comando SQL                          |
+| Sem Conteúdo | Prática em um Projeto Completo                     |
+| Sem Conteúdo | Consultas mais complexas                           |
+| Sem Conteúdo | Consultas com agrupamento, totalização e ordenação |
+| Sem Conteúdo | Segurança de Dados em SQL                          |
 
 </details>
 
