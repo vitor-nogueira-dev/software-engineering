@@ -21,6 +21,7 @@
 | Sem Conteúdo | Instruções                                      |
 | dia_11       | Arrays                                          |
 | dia_12       | Elementos do DOM                                |
+| dia_13       | Aprofundando em JavaScript                      |
 
 </details>
 
