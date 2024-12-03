@@ -22,6 +22,7 @@
 | dia_11       | Arrays                                          |
 | dia_12       | Elementos do DOM                                |
 | dia_13       | Aprofundando em JavaScript                      |
+| Sem Conteúdo | Introdução ao Bootstrap                         |
 
 </details>
 
