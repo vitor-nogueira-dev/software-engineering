@@ -19,6 +19,7 @@
 | dia_08       | Funções                                         |
 | dia_09       | Operadores                                      |
 | Sem Conteúdo | Instruções                                      |
+| dia_11       | Arrays                                          |
 
 </details>
 
