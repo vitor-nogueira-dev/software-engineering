@@ -23,6 +23,8 @@
 | dia_12       | Elementos do DOM                                |
 | dia_13       | Aprofundando em JavaScript                      |
 | Sem Conteúdo | Introdução ao Bootstrap                         |
+| Sem Conteúdo | Aprofundando o uso do Bootstrap                 |
+| Sem Conteúdo | Boas práticas de Mercado                        |
 
 </details>
 
