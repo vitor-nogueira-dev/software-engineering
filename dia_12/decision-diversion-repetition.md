@@ -1,7 +1,5 @@
 # Estruturas de Controle de Fluxo em PL/SQL
 
-Neste documento, vamos explorar as estruturas de controle de fluxo em PL/SQL, a linguagem procedural do Oracle Database. Essas estruturas permitem gerenciar a execução de comandos de forma eficiente, através de decisões e repetições.
-
 ## Estruturas de Decisão
 
 As estruturas de decisão são fundamentais para criar programas que respondem a condições específicas. Em PL/SQL, temos duas principais:
