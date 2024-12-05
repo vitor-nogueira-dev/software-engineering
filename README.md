@@ -23,6 +23,7 @@
 | dia_12       | Comandos de Decisão, Desvio e Repetição                 |
 | dia_13       | Programas Armazenados: Procedimentos, Funções e Pacotes |
 | dia_14       | Integração SQL - PL/SQL                                 |
+| dia_15       | Triggers (Gatilhos)                                     |
 
 </details>
 
