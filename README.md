@@ -20,6 +20,7 @@
 | Sem Conteúdo | Consultas com agrupamento, totalização e ordenação |
 | Sem Conteúdo | Segurança de Dados em SQL                          |
 | dia_11       | Introdução à Linguagem PL/SQL                      |
+| dia_12       | Comandos de Decisão, Desvio e Repetição            |
 
 </details>
 
