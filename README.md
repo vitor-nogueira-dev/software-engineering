@@ -222,6 +222,11 @@
 | Sem Conteúdo | Consultas com agrupamento, totalização e ordenação |
 | Sem Conteúdo | Segurança de Dados em SQL                          |
 | dia_11       | Introdução à Linguagem PL/SQL                      |
+| dia_12       | Comandos de Decisão, Desvio e Repetição                 |
+| dia_13       | Programas Armazenados: Procedimentos, Funções e Pacotes |
+| dia_14       | Integração SQL - PL/SQL                                 |
+| dia_15       | Triggers (Gatilhos)                                     |
+| dia_16       | Cursores Implícitos e Explícitos                        |
 
 </details>
 
