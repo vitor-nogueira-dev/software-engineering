@@ -265,6 +265,7 @@
 
 | Pasta  | Conteúdo                            |
 | ------ | ----------------------------------- |
+| dia_01 | Introdução à Engenharia de Software |
 
 </details>
 
@@ -272,8 +273,8 @@
 
 <summary>applied-differential-mathematics</summary>
 
-| Pasta  | Conteúdo                            |
-| ------ | ----------------------------------- |
+| Pasta | Conteúdo |
+| ----- | -------- |
 
 </details>
 
@@ -281,8 +282,8 @@
 
 <summary>programming-two</summary>
 
-| Pasta  | Conteúdo                            |
-| ------ | ----------------------------------- |
+| Pasta | Conteúdo |
+| ----- | -------- |
 
 </details>
 
