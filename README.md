@@ -8,9 +8,10 @@
 
 <summary>software-engineering</summary>
 
-| Pasta  | Conteúdo                            |
-| ------ | ----------------------------------- |
-| dia_01 | Introdução à Engenharia de Software |
+| Pasta  | Conteúdo                                  |
+| ------ | ----------------------------------------- |
+| dia_01 | Introdução à Engenharia de Software       |
+| dia_02 | Paradigmas de Desenvolvimento de Software |
 
 </details>
 
