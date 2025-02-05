@@ -12,6 +12,7 @@
 | ------ | ----------------------------------------- |
 | dia_01 | Introdução à Engenharia de Software       |
 | dia_02 | Paradigmas de Desenvolvimento de Software |
+| dia_03 | Processos de Desenvolvimento de Software  |
 
 </details>
 
