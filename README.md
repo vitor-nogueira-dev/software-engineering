@@ -16,6 +16,8 @@
 | dia_04 | Modelos de ciclo de vida                  |
 | dia_05 | Estratégias Ágeis e Tomada de Decisões    |
 | dia_06 | Metodologia ágil                          |
+| dia_07 | Seleção de Modelos de Ciclo de Vida       |
+
 
 </details>
 
