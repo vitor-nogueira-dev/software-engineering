@@ -15,6 +15,7 @@
 | dia_03 | Processos de Desenvolvimento de Software  |
 | dia_04 | Modelos de ciclo de vida                  |
 | dia_05 | Estratégias Ágeis e Tomada de Decisões    |
+| dia_06 | Metodologia ágil                          |
 
 </details>
 
