@@ -279,8 +279,9 @@
 
 <summary>applied-differential-mathematics</summary>
 
-| Pasta | Conteúdo |
-| ----- | -------- |
+| Pasta  | Conteúdo           |
+| ------ | ------------------ |
+| dia_01 | Conjunto Numéricos |
 
 </details>
 
