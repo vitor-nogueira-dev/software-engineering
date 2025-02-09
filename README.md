@@ -12,6 +12,7 @@
 | ------ | --------------------------------- |
 | dia_01 | Conjuntos Numéricos               |
 | dia_02 | Conceitos e definições de Funções |
+| dia_03 | Funções Importantes               |
 
 </details>
 
