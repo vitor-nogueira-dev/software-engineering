@@ -8,9 +8,10 @@
 
 <summary>applied-differential-mathematics</summary>
 
-| Pasta  | Conteúdo            |
-| ------ | ------------------- |
-| dia_01 | Conjuntos Numéricos |
+| Pasta  | Conteúdo                          |
+| ------ | --------------------------------- |
+| dia_01 | Conjuntos Numéricos               |
+| dia_02 | Conceitos e definições de Funções |
 
 </details>
 
