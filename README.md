@@ -14,6 +14,7 @@
 | dia_02 | Conceitos e definições de Funções |
 | dia_03 | Funções Importantes               |
 | dia_04 | Funções Elementares               |
+| dia_05 | Noção de Limite de uma Função     |
 
 </details>
 
