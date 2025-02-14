@@ -11,6 +11,7 @@
 | Pasta        | Conteúdo                                     |
 | ------------ | -------------------------------------------- |
 | Sem conteúdo | Apresentação do ambiente e conceitos básicos |
+| dia_02       | Iniciando com o Node.js                      |
 
 </details>
 
