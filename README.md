@@ -13,7 +13,7 @@
 | Sem conteúdo | Apresentação do ambiente e conceitos básicos |
 | dia_02       | Iniciando com o Node.js                      |
 | Sem conteúdo | Aplicação com Banco de Dados                 |
-| Sem conteúdo | Entendendo o padrão MVC                      |
+| dia_04       | Entendendo o padrão MVC                      |
 
 </details>
 
