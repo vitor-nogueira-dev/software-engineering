@@ -2,7 +2,6 @@ import { mongoose } from 'mongoose';
 
 const doctorSchema = new mongoose.Schema(
   {
-    doctorId: { type: String, required: [true, 'Doctor ID is required'] },
     name: { type: String, required: [true, 'Doctor Name is required'] },
     login: {
       type: String,
