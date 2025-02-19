@@ -16,7 +16,7 @@
 | dia_04          | Entendendo o padrão MVC                      |
 | project-med-app | Adicionando CRUD na aplicação                |
 | Sem conteúdo    | Validação da implementação                   |
-| dia_07          | Evoluindo o CRUD da aplicação                |
+| Sem conteúdo    | Evoluindo o CRUD da aplicação                |
 
 </details>
 
