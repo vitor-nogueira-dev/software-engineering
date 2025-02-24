@@ -17,7 +17,7 @@
 | dia_05 | Estratégias Ágeis e Tomada de Decisões    |
 | dia_06 | Metodologia ágil                          |
 | dia_07 | Seleção de Modelos de Ciclo de Vida       |
-
+| dia_08 | Controle de versão                        |
 
 </details>
 
