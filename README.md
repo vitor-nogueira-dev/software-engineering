@@ -272,6 +272,8 @@
 | dia_05 | Estratégias Ágeis e Tomada de Decisões    |
 | dia_06 | Metodologia ágil                          |
 | dia_07 | Seleção de Modelos de Ciclo de Vida       |
+| dia_08 | Controle de versões                       |
+| dia_09 | Controle de versões descentralizado       |
 
 </details>
 
@@ -304,7 +306,6 @@
 | project-med-app | Adicionando CRUD na aplicação                |
 | Sem conteúdo    | Validação da implementação                   |
 | Sem conteúdo    | Evoluindo o CRUD da aplicação                |
-| dia_08          | Controle de versões                          |
 
 </details>
 
