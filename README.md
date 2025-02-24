@@ -18,6 +18,7 @@
 | dia_06 | Metodologia ágil                          |
 | dia_07 | Seleção de Modelos de Ciclo de Vida       |
 | dia_08 | Controle de versão                        |
+| dia_09 | Controle de versão descentralizado        |
 
 </details>
 
