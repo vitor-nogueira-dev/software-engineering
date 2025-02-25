@@ -7,7 +7,7 @@
 ---
 > Módulo 1A
 <details>
-<summary>dynamic-development</summary>
+<summary>dynamic-devecclopment</summary>
 
 | Pasta  | Conteúdo                                       |
 | ------ | ---------------------------------------------- |
@@ -274,6 +274,7 @@
 | dia_07 | Seleção de Modelos de Ciclo de Vida       |
 | dia_08 | Controle de versões                       |
 | dia_09 | Controle de versões descentralizado       |
+| dia_10 | Gerenciamento de Configuração de Software |
 
 </details>
 
