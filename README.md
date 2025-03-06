@@ -275,6 +275,7 @@
 | dia_08 | Controle de versões                       |
 | dia_09 | Controle de versões descentralizado       |
 | dia_10 | Gerenciamento de Configuração de Software |
+| dia_11 | Planejamento de Testes                    |
 
 </details>
 
