@@ -22,7 +22,7 @@
 | dia_10 | Gerenciamento de Configuração de Software |
 | dia_11 | Planejamento de Testes                    |
 | dia_12 | Execução de Testes de Software            |
-
+| dia_13 | Técnicas de Manutenção de Software        |
 </details>
 
 --- 
