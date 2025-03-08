@@ -21,6 +21,7 @@
 | dia_09 | Controle de versão descentralizado        |
 | dia_10 | Gerenciamento de Configuração de Software |
 | dia_11 | Planejamento de Testes                    |
+| dia_12 | Execução de Testes de Software            |
 
 </details>
 
