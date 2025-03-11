@@ -15,18 +15,17 @@ routes.get('/', (req, res) => {
   res.send('Hello World!');
 });
 
-routes.use(express.json());
-
-
-
 routes.post('/login', async (req, res) => {
   try {
     const { login, password } = req.body;
+    if (!login || !password) {
+      return res.status(400).json({ error: 'Login and password are required!' });
+    }
     const doctor = await doctorService.getDoctorByLogin(login);
     if (!doctor) {
       return res.status(401).json({ error: 'Authentication failed!' });
     }
-doctorService
+
     const passwordMatch = await bcrypt.compare(password, doctor.password);
     if (!passwordMatch) {
       return res.status(401).json({ error: 'Authentication failed!' });

@@ -75,7 +75,8 @@ const deleteDoctor = async (id) => {
 // login
 const getDoctorByLogin = async (login) => {
   try {
-    return await Doctor.findOne({ login: login });
+    console.log('Login:', { login });
+    return await Doctor.findOne({ login });
   } catch (error) {
     throw new Error(error);
   }

@@ -46,9 +46,10 @@ const updateDoctor = async (
 const deleteDoctor = async (id) => {
   return await DoctorRepository.deleteDoctor(id);
 };
-
+ 
 // login
 const getDoctorByLogin = async (login) => {
+  console.log('Login:', login);
   return await DoctorRepository.getDoctorByLogin(login);
 };
 
