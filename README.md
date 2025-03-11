@@ -8,19 +8,20 @@
 
 <summary>programming-two</summary>
 
-| Pasta           | Conteúdo                                     |
-| --------------- | -------------------------------------------- |
-| Sem conteúdo    | Apresentação do ambiente e conceitos básicos |
-| dia_02          | Iniciando com o Node.js                      |
-| Sem conteúdo    | Aplicação com Banco de Dados                 |
-| dia_04          | Entendendo o padrão MVC                      |
-| project-med-app | Adicionando CRUD na aplicação                |
-| Sem conteúdo    | Validação da implementação                   |
-| Sem conteúdo    | Evoluindo o CRUD da aplicação                |
-| dia_08          | Middleware                                   |
-| dia_09          | Middleware de Autenticação                   |
-| dia_10          | Trabalhando com Arquivos                     |
-| dia_11          | Iniciando com Framework Next.js              |
+| Pasta           | Conteúdo                                      |
+| --------------- | --------------------------------------------- |
+| Sem conteúdo    | Apresentação do ambiente e conceitos básicos  |
+| dia_02          | Iniciando com o Node.js                       |
+| Sem conteúdo    | Aplicação com Banco de Dados                  |
+| dia_04          | Entendendo o padrão MVC                       |
+| project-med-app | Adicionando CRUD na aplicação                 |
+| Sem conteúdo    | Validação da implementação                    |
+| Sem conteúdo    | Evoluindo o CRUD da aplicação                 |
+| dia_08          | Middleware                                    |
+| dia_09          | Middleware de Autenticação                    |
+| dia_10          | Trabalhando com Arquivos                      |
+| dia_11          | Iniciando com Framework Next.js               |
+| Sem conteúdo    | Integração do projeto Next.JS com a aplicação |
 
 </details>
 
