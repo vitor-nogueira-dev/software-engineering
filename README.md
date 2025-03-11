@@ -24,6 +24,7 @@
 | Sem conteúdo    | Integração do projeto Next.JS com a aplicação |
 | Sem conteúdo    | Trabalhando com arquivos no Next.js           |
 | dia_14          | Consumo de APIs                               |
+| dia_15          | Outras possibilidades de API Restful          |
 
 </details>
 
