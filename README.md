@@ -19,6 +19,7 @@
 | Sem conteúdo    | Evoluindo o CRUD da aplicação                |
 | dia_08          | Middleware                                   |
 | dia_09          | Middleware de Autenticação                   |
+| dia_10          | Trabalhando com Arquivos                     |
 
 </details>
 
