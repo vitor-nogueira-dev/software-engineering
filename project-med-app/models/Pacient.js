@@ -1,25 +1,37 @@
-// name, birthDatem email, phone
-import {mongoose} from 'mongoose';
+import { mongoose } from 'mongoose';
 
-const Schema = new mongoose.Schema({
+const Schema = mongoose.Schema;
+
+const pacientSchema = new Schema({
   name: {
     type: String,
-    required: [true, 'Name is required'],
+    required: [true, 'Pacient name is required.'],
   },
   birthDate: {
     type: Date,
-    required: [true, 'Birth date is required'],
+    required: [true, 'Birth Date is required.'],
   },
   email: {
     type: String,
-    required: [true, 'Email is required'],
+    required: [true, 'Email contact is required.'],
   },
   phone: {
     type: String,
-    required: [true, 'Phone is required'],
+    required: [true, 'Phone number is required.'],
+    validate: {
+      validator: function (v) {
+        return /\d{2} 9\d{4}-\d{4}/.test(v);
+      },
+      message: (props) =>
+        `${props.value} This is not a valid phone value. Please use the following format 99 91234-4567`,
+    },
   },
-}, {
-  timestamps: true,
-})
+  createdAt: {
+    type: Date,
+    default: Date.now,
+  },
+});
 
-export const Pacient = mongoose.model('Pacient', Schema);
+const pacient = mongoose.model('Pacient', pacientSchema);
+
+export default pacient;

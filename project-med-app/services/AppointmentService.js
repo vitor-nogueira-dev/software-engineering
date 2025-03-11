@@ -1,56 +1,39 @@
-import appoitmentRepository from '../repositories/AppointmentRepository.js';
+import AppointmentRepository from '../repositories/AppointmentRepository.js';
 
 const getAllAppointments = async () => {
-  return await appoitmentRepository.getAllAppointments();
+  return await AppointmentRepository.getAllAppointments();
 };
 
-const getAppointmentById = async (id) => {
-  try {
-    return await appoitmentRepository.getAppointmentById(id);
-  } catch (error) {
-    throw new Error(error);
-  }
+const getAppointment = async (id) => {
+  return await AppointmentRepository.getAppointment(id);
 };
 
-const saveAppointment = async (date, doctorId, pacientId) => {
-  try {
-    return await appoitmentRepository.saveAppointment(
-      date,
-      doctorId,
-      pacientId
-    );
-  } catch (error) {
-    throw new Error(error);
-  }
+const saveAppointment = async ({ date, doctorId, pacientId }) => {
+  return await AppointmentRepository.saveAppointment({
+    date,
+    doctorId,
+    pacientId,
+  });
 };
 
 const updateAppointment = async (id, { date, doctorId, pacientId }) => {
-  try {
-    return await appoitmentRepository.updateAppointment(id, {
-      date,
-      doctorId,
-      pacientId,
-    });
-  } catch (error) {
-    throw new Error(error);
-  }
+  return await AppointmentRepository.updateAppointment(id, {
+    date,
+    doctorId,
+    pacientId,
+  });
 };
 
 const deleteAppointment = async (id) => {
-  try {
-    await appoitmentRepository.deleteAppointment(id);
-  } catch (error) {
-    throw new Error(error);
-  }
-  return true;
+  return await AppointmentRepository.deleteAppointment(id);
 };
 
-const appoitmentService = {
+const appointmentService = {
   getAllAppointments,
-  getAppointmentById,
+  getAppointment,
   saveAppointment,
   updateAppointment,
   deleteAppointment,
 };
 
-export default appoitmentService;
+export default appointmentService;

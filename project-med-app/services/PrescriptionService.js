@@ -48,7 +48,7 @@ const deletePrescription = async (id) => {
 };
 
 const generatePrescriptionFile = async (prescription) => {
-  const appointment = await AppointmentService.getAppointmentById(
+  const appointment = await AppointmentService.getAppointment(
     prescription.appointmentId
   );
   const pacient = await PacientService.getPacient(appointment.pacientId);
