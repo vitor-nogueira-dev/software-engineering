@@ -11,7 +11,7 @@ const uploadPrescription = async (req, res) => {
       return res.status(404).send('Prescription not found');
     }
 
-    const file = './project-med-app/prescriptions/' + req.file.originalname;
+    const file = '/prescriptions/' + req.file.originalname;
     prescription = await PrescriptionService.updatePrescription(id, { file });
 
     return res.status(200).send(prescription);
@@ -26,7 +26,8 @@ const readPrescription = async (req, res) => {
 
   try {
     const prescription = await PrescriptionService.getPrescription(id);
-    let filePath = path.resolve(process.cwd() + '/../' + prescription.file);
+    let filePath = path.resolve(process.cwd() + prescription.file);
+    console.log('filePath', filePath);
     res.status(200).sendFile(filePath);
   } catch (error) {
     console.error(error);

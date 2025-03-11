@@ -32,7 +32,7 @@ routes.post('/login', async (req, res) => {
     }
 
     const token = jwt.sign({ doctorId: doctor._id }, 'you-secret-key', {
-      expiresIn: '1h',
+      expiresIn: '7d',
     });
     res.status(200).json({ token });
   } catch (error) {
