@@ -20,6 +20,7 @@
 | dia_08          | Middleware                                   |
 | dia_09          | Middleware de Autenticação                   |
 | dia_10          | Trabalhando com Arquivos                     |
+| dia_11          | Iniciando com Framework Next.js              |
 
 </details>
 
