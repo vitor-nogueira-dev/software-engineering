@@ -23,6 +23,8 @@ export default function Home() {
         <Link className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="/appointment/list">List all appointments</Link>
         <br></br><br></br>
         <Link className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="/fake">Access FakeApi</Link>
+        <br></br><br></br>
+        <Link className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="/prescription/upload">Upload Prescription</Link>
       </div>
     </>
   );
