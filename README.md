@@ -25,6 +25,7 @@
 | Sem conteúdo    | Trabalhando com arquivos no Next.js           |
 | dia_14          | Consumo de APIs                               |
 | dia_15          | Outras possibilidades de API Restful          |
+| dia_16          | Boas Práticas do Mercado                      |
 
 </details>
 
