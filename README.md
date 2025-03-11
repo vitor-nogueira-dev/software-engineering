@@ -17,7 +17,7 @@
 | project-med-app | Adicionando CRUD na aplicação                |
 | Sem conteúdo    | Validação da implementação                   |
 | Sem conteúdo    | Evoluindo o CRUD da aplicação                |
-
+| dia_08   | Middleware                                   |
 </details>
 
 --- 
