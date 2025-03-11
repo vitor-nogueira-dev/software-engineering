@@ -13,7 +13,7 @@ const getAppointmentById = async (id) => {
   }
 };
 
-const saveAppointment = async (date, doctorId, pacientId) => {
+const saveAppointment = async ({ date, doctorId, pacientId }) => {
   try {
     const prescription = new Appointment({ date, doctorId, pacientId });
     await prescription.save();

@@ -12,7 +12,7 @@ const getAllAppointments = async (req, res) => {
 const getAppointmentById = async (req, res) => {
   try {
     const { id } = req.params;
-    const appointment = await appoitmentService.getAppointmentById(id);
+    const appointment = await appoitmentService.getAppointment(id);
     res.status(200).json(appointment);
   } catch (error) {
     res.status(500).json({ message: error.message });
@@ -22,11 +22,11 @@ const getAppointmentById = async (req, res) => {
 const saveAppointment = async (req, res) => {
   try {
     const { date, doctorId, pacientId } = req.body;
-    const appointment = await appoitmentService.saveAppointment(
+    const appointment = await appoitmentService.saveAppointment({
       date,
       doctorId,
-      pacientId
-    );
+      pacientId,
+    });
     res.status(201).json(appointment);
   } catch (error) {
     res.status(500).json({ message: error.message });

@@ -6,7 +6,7 @@ let routes = Router();
 
 const storage = multer.diskStorage({
   destination: function (req, file, cb) {
-    cb(null, './MediApp/prescriptions/');
+    cb(null, './project-med-app/prescriptions/');
   },
   filename: function (req, file, cb) {
     cb(null, file.originalname);

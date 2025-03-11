@@ -5,7 +5,7 @@ const getAllAppointments = async () => {
 };
 
 const getAppointment = async (id) => {
-  return await AppointmentRepository.getAppointment(id);
+  return await AppointmentRepository.getAppointmentById(id);
 };
 
 const saveAppointment = async ({ date, doctorId, pacientId }) => {

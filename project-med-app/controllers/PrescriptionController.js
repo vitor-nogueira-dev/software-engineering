@@ -7,7 +7,11 @@ const uploadPrescription = async (req, res) => {
     const { id } = req.params;
     let prescription = await PrescriptionService.getPrescription(id);
 
-    const file = './MediApp/src/prescriptions/' + req.file.originalname;
+    if (!prescription) {
+      return res.status(404).send('Prescription not found');
+    }
+
+    const file = './project-med-app/prescriptions/' + req.file.originalname;
     prescription = await PrescriptionService.updatePrescription(id, { file });
 
     return res.status(200).send(prescription);
@@ -106,7 +110,7 @@ const generatePrescriptionFile = async (req, res) => {
     let generatedPrescription =
       await PrescriptionService.generatePrescriptionFile(prescription);
 
-    const file = './src/prescriptions/' + id + '.pdf';
+    const file = './project-med-app/prescriptions/' + id + '.pdf';
     generatedPrescription = await PrescriptionService.updatePrescription(id, {
       file,
     });
@@ -116,7 +120,7 @@ const generatePrescriptionFile = async (req, res) => {
     console.error(error);
     res.status(500).send(error);
   }
-}
+};
 
 const prescriptionController = {
   uploadPrescription,
