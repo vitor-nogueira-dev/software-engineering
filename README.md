@@ -23,6 +23,7 @@
 | dia_11          | Iniciando com Framework Next.js               |
 | Sem conteúdo    | Integração do projeto Next.JS com a aplicação |
 | Sem conteúdo    | Trabalhando com arquivos no Next.js           |
+| dia_14          | Consumo de APIs                               |
 
 </details>
 
