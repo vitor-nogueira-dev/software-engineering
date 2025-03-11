@@ -22,6 +22,7 @@
 | dia_10          | Trabalhando com Arquivos                      |
 | dia_11          | Iniciando com Framework Next.js               |
 | Sem conteúdo    | Integração do projeto Next.JS com a aplicação |
+| Sem conteúdo    | Trabalhando com arquivos no Next.js           |
 
 </details>
 
