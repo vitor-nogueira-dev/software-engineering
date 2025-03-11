@@ -273,9 +273,14 @@
 | dia_06 | Metodologia ágil                          |
 | dia_07 | Seleção de Modelos de Ciclo de Vida       |
 | dia_08 | Controle de versões                       |
-| dia_09 | Controle de versões descentralizado       |
+| dia_09 | Controle de versão descentralizado        |
 | dia_10 | Gerenciamento de Configuração de Software |
 | dia_11 | Planejamento de Testes                    |
+| dia_12 | Execução de Testes de Software            |
+| dia_13 | Técnicas de Manutenção de Software        |
+| dia_14 | Métricas de Qualidade de Software         |
+| dia_15 | Identificação de Code Smells              |
+| dia_16 | Integração Contínua e DevOps              |
 
 </details>
 
