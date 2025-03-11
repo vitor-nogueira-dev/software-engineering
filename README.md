@@ -25,6 +25,8 @@
 | dia_13 | Técnicas de Manutenção de Software        |
 | dia_14 | Métricas de Qualidade de Software         |
 | dia_15 | Identificação de Code Smells              |
+| dia_16 | Integração Contínua e DevOps              |
+
 </details>
 
 --- 
