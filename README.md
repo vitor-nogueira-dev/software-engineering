@@ -20,6 +20,7 @@
 | dia_08 | Continuidade                       |
 | dia_09 | A Reta Tangente                    |
 | dia_10 | Deriváveis                         |
+| dia_11 | Derivadas Elementares              |
 
 </details>
 
