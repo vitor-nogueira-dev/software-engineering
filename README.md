@@ -19,6 +19,7 @@
 | dia_07 | Limites Indeterminados - Aplicação |
 | dia_08 | Continuidade                       |
 | dia_09 | A Reta Tangente                    |
+| dia_10 | Deriváveis                         |
 
 </details>
 
