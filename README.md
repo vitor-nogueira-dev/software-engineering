@@ -18,6 +18,7 @@
 | dia_06 | Limites Indeterminados             |
 | dia_07 | Limites Indeterminados - Aplicação |
 | dia_08 | Continuidade                       |
+| dia_09 | A Reta Tangente                    |
 
 </details>
 
