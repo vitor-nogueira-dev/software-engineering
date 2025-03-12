@@ -17,6 +17,7 @@
 | dia_05 | Noção de Limite de uma Função      |
 | dia_06 | Limites Indeterminados             |
 | dia_07 | Limites Indeterminados - Aplicação |
+| dia_08 | Continuidade                       |
 
 </details>
 
