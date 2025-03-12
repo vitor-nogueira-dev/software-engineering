@@ -11,7 +11,7 @@
 - Em qual instante a aceleração da partícula é nula?
   - Basta igualar a equação da aceleração a zero.
 
-### Derivaçãio Implícita
+### Derivação Implícita
 - Uma função explícita é da forma f(x) = y
   - y = x + 1
 - A derivada implícita é da forma f(x,y) = 0
