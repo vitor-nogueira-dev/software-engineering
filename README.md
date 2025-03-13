@@ -22,6 +22,7 @@
 | dia_10 | Deriváveis                         |
 | dia_11 | Derivadas Elementares              |
 | dia_12 | Derivadas Aplicadas                |
+| dia_13 | Acréscimos e Diferenciais          |
 
 </details>
 
