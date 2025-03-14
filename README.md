@@ -25,6 +25,7 @@
 | dia_13 | Acréscimos e Diferenciais          |
 | dia_14 | Teoremas e Funções                 |
 | dia_15 | Extremos, Concavidade e Inflexão   |
+| dia_16 | Regras de Derivação                |
 
 </details>
 
