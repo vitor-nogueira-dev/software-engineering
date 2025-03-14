@@ -297,6 +297,15 @@
 | dia_05 | Noção de Limite de uma Função      |
 | dia_06 | Limites Indeterminados             |
 | dia_07 | Limites Indeterminados - Aplicação |
+| dia_08 | Continuidade                       |
+| dia_09 | A Reta Tangente                    |
+| dia_10 | Deriváveis                         |
+| dia_11 | Derivadas Elementares              |
+| dia_12 | Derivadas Aplicadas                |
+| dia_13 | Acréscimos e Diferenciais          |
+| dia_14 | Teoremas e Funções                 |
+| dia_15 | Extremos, Concavidade e Inflexão   |
+| dia_16 | Regras de Derivação                |
 
 </details>
 
