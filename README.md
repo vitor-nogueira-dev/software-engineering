@@ -342,8 +342,8 @@
 
 <summary>integrative-practice-app-development</summary>
 
-| Pasta           | Conteúdo                                      |
-| --------------- | --------------------------------------------- |
+| Pasta | Conteúdo |
+| ----- | -------- |
 
 </details>
 
@@ -351,8 +351,9 @@
 
 <summary>mobile-development</summary>
 
-| Pasta           | Conteúdo                                      |
-| --------------- | --------------------------------------------- |
+| Pasta  | Conteúdo |
+| ------ | -------- |
+| dia_01 | Flutter  |
 
 </details>
 
