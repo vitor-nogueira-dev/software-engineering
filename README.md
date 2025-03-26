@@ -11,6 +11,7 @@
 | Pasta  | Conteúdo |
 | ------ | -------- |
 | dia_01 | Flutter  |
+| dia_02 | Dart     |
 
 </details>
 
