@@ -8,10 +8,11 @@
 
 <summary>mobile-development</summary>
 
-| Pasta  | Conteúdo |
-| ------ | -------- |
-| dia_01 | Flutter  |
-| dia_02 | Dart     |
+| Pasta  | Conteúdo              |
+| ------ | --------------------- |
+| dia_01 | Flutter               |
+| dia_02 | Dart                  |
+| dia_03 | Interface com Widgets |
 
 </details>
 
