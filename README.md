@@ -8,11 +8,12 @@
 
 <summary>mobile-development</summary>
 
-| Pasta  | Conteúdo              |
-| ------ | --------------------- |
-| dia_01 | Flutter               |
-| dia_02 | Dart                  |
-| dia_03 | Interface com Widgets |
+| Pasta  | Conteúdo                |
+| ------ | ----------------------- |
+| dia_01 | Flutter                 |
+| dia_02 | Dart                    |
+| dia_03 | Interface com Widgets   |
+| dia_04 | Persistência de Objetos |
 
 </details>
 
