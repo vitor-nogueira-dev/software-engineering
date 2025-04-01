@@ -15,7 +15,7 @@
 | dia_03       | Interface com Widgets   |
 | dia_04       | Persistência de Objetos |
 | Sem contéudo | Google Cloud Messaging  |
-
+| dia_06       | NFC                     |
 </details>
 
 --- 
