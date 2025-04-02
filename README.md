@@ -16,6 +16,8 @@
 | dia_04       | Persistência de Objetos |
 | Sem contéudo | Google Cloud Messaging  |
 | dia_06       | NFC                     |
+| dia_07       | APIs RESTful            |
+
 </details>
 
 --- 
