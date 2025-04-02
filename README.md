@@ -342,8 +342,9 @@
 
 <summary>integrative-practice-app-development</summary>
 
-| Pasta | Conteúdo |
-| ----- | -------- |
+| Pasta  | Conteúdo        |
+| ------ | --------------- |
+| dia_01 | Design Thinking |
 
 </details>
 
