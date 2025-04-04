@@ -11,6 +11,7 @@
 | Pasta  | Conteúdo        |
 | ------ | --------------- |
 | dia_01 | Design Thinking |
+| dia_02 | Ideação         |
 
 </details>
 
