@@ -8,10 +8,11 @@
 
 <summary>integrative-practice-app-development</summary>
 
-| Pasta  | Conteúdo        |
-| ------ | --------------- |
-| dia_01 | Design Thinking |
-| dia_02 | Ideação         |
+| Pasta  | Conteúdo                   |
+| ------ | -------------------------- |
+| dia_01 | Design Thinking            |
+| dia_02 | Ideação                    |
+| dia_03 | Levantamento de Requisitos |
 
 </details>
 
