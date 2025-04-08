@@ -13,6 +13,7 @@
 | dia_01 | Design Thinking            |
 | dia_02 | Ideação                    |
 | dia_03 | Levantamento de Requisitos |
+| dia_04 | Kanban                     |
 
 </details>
 
