@@ -15,6 +15,7 @@
 | dia_03 | Levantamento de Requisitos |
 | dia_04 | Kanban                     |
 | dia_05 | Prototipagem               |
+| dia_06 | Flutter                    |
 
 </details>
 
