@@ -17,6 +17,7 @@
 | dia_05 | Prototipagem               |
 | dia_06 | Flutter                    |
 | dia_07 | Interface Gráfica          |
+| dia_08 | Banco de Dados             |
 
 </details>
 
