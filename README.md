@@ -18,6 +18,7 @@
 | dia_06 | Flutter                    |
 | dia_07 | Interface Gráfica          |
 | dia_08 | Banco de Dados             |
+| dia_09 | REST                       |
 
 </details>
 
