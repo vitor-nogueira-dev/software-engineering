@@ -19,6 +19,7 @@
 | dia_07 | Interface Gráfica          |
 | dia_08 | Banco de Dados             |
 | dia_09 | REST                       |
+| dia_10 | API G                      |
 
 </details>
 
