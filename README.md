@@ -342,9 +342,18 @@
 
 <summary>integrative-practice-app-development</summary>
 
-| Pasta  | Conteúdo        |
-| ------ | --------------- |
-| dia_01 | Design Thinking |
+| Pasta  | Conteúdo                   |
+| ------ | -------------------------- |
+| dia_01 | Design Thinking            |
+| dia_02 | Ideação                    |
+| dia_03 | Levantamento de Requisitos |
+| dia_04 | Kanban                     |
+| dia_05 | Prototipagem               |
+| dia_06 | Flutter                    |
+| dia_07 | Interface Gráfica          |
+| dia_08 | Banco de Dados             |
+| dia_09 | REST                       |
+| dia_10 | API G                      |
 
 </details>
 
