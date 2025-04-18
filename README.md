@@ -18,6 +18,7 @@
 | dia_06       | NFC                     |
 | dia_07       | APIs RESTful            |
 | dia_08       | API G                   |
+| dia_09       | Google Maps             |
 
 </details>
 
