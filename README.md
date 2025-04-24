@@ -20,6 +20,7 @@
 | dia_08       | API G                   |
 | dia_09       | Google Maps             |
 | dia_10       | Acelerômetros           |
+| dia_11       | Wearables               |
 
 </details>
 
