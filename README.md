@@ -21,6 +21,7 @@
 | dia_09       | Google Maps             |
 | dia_10       | Acelerômetros           |
 | dia_11       | Wearables               |
+| dia_12       | Testes Integrados       |
 
 </details>
 
