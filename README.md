@@ -22,6 +22,7 @@
 | dia_10       | Acelerômetros           |
 | dia_11       | Wearables               |
 | dia_12       | Testes Integrados       |
+| dia_13       | Padrões de Projeto      |
 
 </details>
 
