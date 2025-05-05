@@ -24,6 +24,7 @@
 | dia_12       | Testes Integrados              |
 | dia_13       | Padrões de Projeto             |
 | dia_14       | Integração com Cloud Computing |
+| dia_15       | Gerenciadores de Dependência   |
 
 </details>
 
