@@ -8,23 +8,24 @@
 
 <summary>mobile-development</summary>
 
-| Pasta        | Conteúdo                       |
-| ------------ | ------------------------------ |
-| dia_01       | Flutter                        |
-| dia_02       | Dart                           |
-| dia_03       | Interface com Widgets          |
-| dia_04       | Persistência de Objetos        |
-| Sem contéudo | Google Cloud Messaging         |
-| dia_06       | NFC                            |
-| dia_07       | APIs RESTful                   |
-| dia_08       | API G                          |
-| dia_09       | Google Maps                    |
-| dia_10       | Acelerômetros                  |
-| dia_11       | Wearables                      |
-| dia_12       | Testes Integrados              |
-| dia_13       | Padrões de Projeto             |
-| dia_14       | Integração com Cloud Computing |
-| dia_15       | Gerenciadores de Dependência   |
+| Pasta        | Conteúdo                          |
+| ------------ | --------------------------------- |
+| dia_01       | Flutter                           |
+| dia_02       | Dart                              |
+| dia_03       | Interface com Widgets             |
+| dia_04       | Persistência de Objetos           |
+| Sem contéudo | Google Cloud Messaging            |
+| dia_06       | NFC                               |
+| dia_07       | APIs RESTful                      |
+| dia_08       | API G                             |
+| dia_09       | Google Maps                       |
+| dia_10       | Acelerômetros                     |
+| dia_11       | Wearables                         |
+| dia_12       | Testes Integrados                 |
+| dia_13       | Padrões de Projeto                |
+| dia_14       | Integração com Cloud Computing    |
+| dia_15       | Gerenciadores de Dependência      |
+| dia_16       | Publicação de Aplicação e Mercado |
 
 </details>
 
