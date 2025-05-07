@@ -20,6 +20,7 @@
 | dia_08 | Banco de Dados             |
 | dia_09 | REST                       |
 | dia_10 | API G                      |
+| dia_11 | Google Maps                |
 
 </details>
 
