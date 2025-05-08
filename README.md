@@ -21,6 +21,7 @@
 | dia_09 | REST                       |
 | dia_10 | API G                      |
 | dia_11 | Google Maps                |
+| dia_12 | Acelerômetros              |
 
 </details>
 
