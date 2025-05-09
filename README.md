@@ -8,20 +8,21 @@
 
 <summary>integrative-practice-app-development</summary>
 
-| Pasta  | Conteúdo                   |
-| ------ | -------------------------- |
-| dia_01 | Design Thinking            |
-| dia_02 | Ideação                    |
-| dia_03 | Levantamento de Requisitos |
-| dia_04 | Kanban                     |
-| dia_05 | Prototipagem               |
-| dia_06 | Flutter                    |
-| dia_07 | Interface Gráfica          |
-| dia_08 | Banco de Dados             |
-| dia_09 | REST                       |
-| dia_10 | API G                      |
-| dia_11 | Google Maps                |
-| dia_12 | Acelerômetros              |
+| Pasta  | Conteúdo                       |
+| ------ | ------------------------------ |
+| dia_01 | Design Thinking                |
+| dia_02 | Ideação                        |
+| dia_03 | Levantamento de Requisitos     |
+| dia_04 | Kanban                         |
+| dia_05 | Prototipagem                   |
+| dia_06 | Flutter                        |
+| dia_07 | Interface Gráfica              |
+| dia_08 | Banco de Dados                 |
+| dia_09 | REST                           |
+| dia_10 | API G                          |
+| dia_11 | Google Maps                    |
+| dia_12 | Acelerômetros                  |
+| dia_13 | Integração com Cloud Computing |
 
 </details>
 
