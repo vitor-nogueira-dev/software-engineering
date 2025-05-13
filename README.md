@@ -23,6 +23,7 @@
 | dia_11 | Google Maps                    |
 | dia_12 | Acelerômetros                  |
 | dia_13 | Integração com Cloud Computing |
+| dia_14 | Exceções em Flutter            |
 
 </details>
 
