@@ -24,6 +24,7 @@
 | dia_12 | Acelerômetros                  |
 | dia_13 | Integração com Cloud Computing |
 | dia_14 | Exceções em Flutter            |
+| dia_15 | Testes Integrados              |
 
 </details>
 
