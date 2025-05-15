@@ -342,18 +342,24 @@
 
 <summary>integrative-practice-app-development</summary>
 
-| Pasta  | Conteúdo                   |
-| ------ | -------------------------- |
-| dia_01 | Design Thinking            |
-| dia_02 | Ideação                    |
-| dia_03 | Levantamento de Requisitos |
-| dia_04 | Kanban                     |
-| dia_05 | Prototipagem               |
-| dia_06 | Flutter                    |
-| dia_07 | Interface Gráfica          |
-| dia_08 | Banco de Dados             |
-| dia_09 | REST                       |
-| dia_10 | API G                      |
+| Pasta  | Conteúdo                          |
+| ------ | --------------------------------- |
+| dia_01 | Design Thinking                   |
+| dia_02 | Ideação                           |
+| dia_03 | Levantamento de Requisitos        |
+| dia_04 | Kanban                            |
+| dia_05 | Prototipagem                      |
+| dia_06 | Flutter                           |
+| dia_07 | Interface Gráfica                 |
+| dia_08 | Banco de Dados                    |
+| dia_09 | REST                              |
+| dia_10 | API G                             |
+| dia_11 | Google Maps                       |
+| dia_12 | Acelerômetros                     |
+| dia_13 | Integração com Cloud Computing    |
+| dia_14 | Exceções em Flutter               |
+| dia_15 | Testes Integrados                 |
+| dia_16 | Publicação de Aplicação e Mercado |
 
 </details>
 
