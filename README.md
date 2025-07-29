@@ -396,8 +396,9 @@
 
 <summary>cloud-computing-fundamentals</summary>
 
-| Pasta  | Conteúdo                          |
-| ------ | --------------------------------- |
+| Pasta  | Conteúdo                             |
+| ------ | ------------------------------------ |
+| dia_01 | Arquitetura de aplicações em Camadas |
 
 </details>
 
@@ -405,8 +406,8 @@
 
 <summary>computer-networks</summary>
 
-| Pasta        | Conteúdo                          |
-| ------------ | --------------------------------- |
+| Pasta | Conteúdo |
+| ----- | -------- |
 
 </details>
 
@@ -414,8 +415,8 @@
 
 <summary>integral-problem-solving</summary>
 
-| Pasta        | Conteúdo                          |
-| ------------ | --------------------------------- |
+| Pasta | Conteúdo |
+| ----- | -------- |
 
 </details>
 
