@@ -8,8 +8,9 @@
 
 <summary>cloud-computing-fundamentals</summary>
 
-| Pasta        | Conteúdo                          |
-| ------------ | --------------------------------- |
+| Pasta  | Conteúdo                             |
+| ------ | ------------------------------------ |
+| dia_01 | Arquitetura de aplicações em Camadas |
 
 </details>
 
