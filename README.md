@@ -7,7 +7,7 @@
 ---
 > Módulo 1A
 <details>
-<summary>dynamic-devecclopment</summary>
+<summary>dynamic-development</summary>
 
 | Pasta  | Conteúdo                                       |
 | ------ | ---------------------------------------------- |
