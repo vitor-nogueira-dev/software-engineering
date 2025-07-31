@@ -12,6 +12,7 @@
 | ------ | ------------------------------------ |
 | dia_01 | Arquitetura de aplicações em Camadas |
 | dia_02 | Padrões de e-business                |
+| dia_03 | Melhores práticas                    |
 
 </details>
 
