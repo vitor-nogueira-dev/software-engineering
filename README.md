@@ -8,11 +8,12 @@
 
 <summary>cloud-computing-fundamentals</summary>
 
-| Pasta  | Conteúdo                             |
-| ------ | ------------------------------------ |
-| dia_01 | Arquitetura de aplicações em Camadas |
-| dia_02 | Padrões de e-business                |
-| dia_03 | Melhores práticas                    |
+| Pasta  | Conteúdo                              |
+| ------ | ------------------------------------- |
+| dia_01 | Arquitetura de aplicações em Camadas  |
+| dia_02 | Padrões de e-business                 |
+| dia_03 | Melhores práticas                     |
+| dia_04 | Serviços, Protocolos e servidores WEB |
 
 </details>
 
