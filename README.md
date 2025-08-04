@@ -15,6 +15,7 @@
 | dia_03 | Melhores práticas                           |
 | dia_04 | Serviços, Protocolos e servidores WEB       |
 | dia_05 | Infraestrutura básica de segurança para web |
+| dia_06 | Servidores de Portais Corporativos          |
 
 </details>
 
