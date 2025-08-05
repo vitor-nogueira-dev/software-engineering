@@ -412,8 +412,9 @@
 
 <summary>computer-networks</summary>
 
-| Pasta | Conteúdo |
-| ----- | -------- |
+| Pasta  | Conteúdo           |
+| ------ | ------------------ |
+| dia_01 | Introdução à Redes |
 
 </details>
 
