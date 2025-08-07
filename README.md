@@ -8,9 +8,10 @@
 
 <summary>computer-networks</summary>
 
-| Pasta  | Conteúdo           |
-| ------ | ------------------ |
-| dia_01 | Introdução à Redes |
+| Pasta  | Conteúdo                 |
+| ------ | ------------------------ |
+| dia_01 | Introdução à Redes       |
+| dia_02 | Tecnologias e Protocolos |
 
 </details>
 
