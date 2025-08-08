@@ -12,6 +12,7 @@
 | ------ | ------------------------ |
 | dia_01 | Introdução à Redes       |
 | dia_02 | Tecnologias e Protocolos |
+| dia_03 | Principais Modelos       |
 
 </details>
 
