@@ -8,11 +8,12 @@
 
 <summary>computer-networks</summary>
 
-| Pasta  | Conteúdo                 |
-| ------ | ------------------------ |
-| dia_01 | Introdução à Redes       |
-| dia_02 | Tecnologias e Protocolos |
-| dia_03 | Principais Modelos       |
+| Pasta  | Conteúdo                    |
+| ------ | --------------------------- |
+| dia_01 | Introdução à Redes          |
+| dia_02 | Tecnologias e Protocolos    |
+| dia_03 | Principais Modelos          |
+| dia_04 | Comunicação e Camada Física |
 
 </details>
 
