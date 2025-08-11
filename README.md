@@ -14,6 +14,7 @@
 | dia_02 | Tecnologias e Protocolos    |
 | dia_03 | Principais Modelos          |
 | dia_04 | Comunicação e Camada Física |
+| dia_05 | Cabeamentos e Conexões      |
 
 </details>
 
