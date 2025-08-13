@@ -428,8 +428,9 @@
 
 <summary>integral-problem-solving</summary>
 
-| Pasta | Conteúdo |
-| ----- | -------- |
+| Pasta  | Conteúdo                                              |
+| ------ | ----------------------------------------------------- |
+| dia_01 | Gráficos e Conceitos Básicos de Limite e Continuidade |
 
 </details>
 
