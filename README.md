@@ -11,6 +11,7 @@
 | Pasta  | Conteúdo                                              |
 | ------ | ----------------------------------------------------- |
 | dia_01 | Gráficos e Conceitos Básicos de Limite e Continuidade |
+| dia_02 | Cálculo de Limites e Continuidade                     |
 
 </details>
 
