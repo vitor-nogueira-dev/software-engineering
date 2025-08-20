@@ -16,6 +16,7 @@
 | dia_04 | Diferenciabilidade e Plano Tangente                   |
 | dia_05 | Derivadas Parciais e Conceitos Básicos                |
 | dia_06 | Integral Indefinida e o Método da Substituição        |
+| dia_07 | Integral Definida e o Teorema Fundamental do Cálculo  |
 
 </details>
 
