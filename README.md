@@ -19,6 +19,7 @@
 | dia_07 | Arquitetura Orientada a Serviço                           |
 | dia_08 | Fundamentos de Cloud Computing: terminologias e conceitos |
 | dia_09 | Software as a Service (SaaS)                              |
+| dia_10 | Platform as a Service (PaaS)                              |
 
 </details>
 
