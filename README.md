@@ -20,6 +20,7 @@
 | dia_08 | Fundamentos de Cloud Computing: terminologias e conceitos |
 | dia_09 | Software as a Service (SaaS)                              |
 | dia_10 | Platform as a Service (PaaS)                              |
+| dia_11 | Infrastructure as a Service (IaaS)                        |
 
 </details>
 
