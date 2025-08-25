@@ -21,10 +21,10 @@
 | dia_09 | Software as a Service (SaaS)                              |
 | dia_10 | Platform as a Service (PaaS)                              |
 | dia_11 | Infrastructure as a Service (IaaS)                        |
+| dia_12 | Benefícios, desafios e riscos das plataformas e serviços  |
 
 </details>
 
 --- 
-
 
 > ⭐️ Este README foi gerado com o [Code Mark](https://codemark.com.br) - uma poderosa ferramenta de geração de README drag in drop, que possibilita a criação fácil e rápida de documentos excepcionais. Explore a praticidade de destacar seu projeto com o Code Mark!
