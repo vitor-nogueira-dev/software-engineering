@@ -22,6 +22,7 @@
 | dia_10 | Platform as a Service (PaaS)                              |
 | dia_11 | Infrastructure as a Service (IaaS)                        |
 | dia_12 | Benefícios, desafios e riscos das plataformas e serviços  |
+| dia_13 | Service Level Agreements (SLAs) para serviços de Cloud    |
 
 </details>
 
