@@ -25,6 +25,7 @@
 | dia_13 | Service Level Agreements (SLAs) para serviços de Cloud          |
 | dia_14 | Análise de desempenho                                           |
 | dia_15 | Migração e transformação de servidores para provedores de nuvem |
+| dia_16 | O futuro e a evolução dos serviços Cloud                        |
 
 </details>
 
