@@ -17,6 +17,7 @@
 | dia_05 | Cabeamentos e Conexões          |
 | dia_06 | Conversões e Sistemas Numéricos |
 | dia_07 | Camada de Enlace                |
+| dia_08 | Comutação Ethernet              |
 
 </details>
 
