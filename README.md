@@ -21,6 +21,7 @@
 | dia_09 | Camada de Rede                          |
 | dia_10 | Resolução de Endereços e Estrutura IPv4 |
 | dia_11 | Endereços e Segmentação no IPv4         |
+| dia_12 | Endereçamento IPv6                      |
 
 </details>
 
