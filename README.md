@@ -23,6 +23,7 @@
 | dia_11 | Endereços e Segmentação no IPv4         |
 | dia_12 | Endereçamento IPv6                      |
 | dia_13 | Camada de Transporte                    |
+| dia_14 | Camada de Aplicação                     |
 
 </details>
 
