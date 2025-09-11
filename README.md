@@ -18,6 +18,7 @@
 | dia_06 | Integral Indefinida e o Método da Substituição        |
 | dia_07 | Integral Definida e o Teorema Fundamental do Cálculo  |
 | dia_08 | Método de Integração por Partes                       |
+| dia_09 | Aplicações Variadas da Integral Definida              |
 
 </details>
 
