@@ -21,6 +21,7 @@
 | dia_09 | Aplicações Variadas da Integral Definida              |
 | dia_10 | Cálculo de Área de Regiões Planas                     |
 | dia_11 | Integrais Impróprias e Limites Infinitos              |
+| dia_12 | Superfícies Quádricas e Esféricas                     |
 
 </details>
 
