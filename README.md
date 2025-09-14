@@ -20,6 +20,7 @@
 | dia_08 | Método de Integração por Partes                       |
 | dia_09 | Aplicações Variadas da Integral Definida              |
 | dia_10 | Cálculo de Área de Regiões Planas                     |
+| dia_11 | Integrais Impróprias e Limites Infinitos              |
 
 </details>
 
