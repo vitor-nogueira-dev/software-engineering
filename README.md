@@ -23,6 +23,7 @@
 | dia_11 | Integrais Impróprias e Limites Infinitos              |
 | dia_12 | Superfícies Quádricas e Esféricas                     |
 | dia_13 | Superfícies Cilíndricas e Cônicas                     |
+| dia_14 | Superfícies de Revolução                              |
 
 </details>
 
