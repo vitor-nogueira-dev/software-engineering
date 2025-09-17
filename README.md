@@ -25,6 +25,7 @@
 | dia_13 | Superfícies Cilíndricas e Cônicas                     |
 | dia_14 | Superfícies de Revolução                              |
 | dia_15 | Método dos Discos Circulares                          |
+| dia_16 | Método das Camadas Cilíndricas                        |
 
 </details>
 
