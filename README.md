@@ -455,6 +455,15 @@
 | dia_05 | Derivadas Parciais e Conceitos Básicos                |
 | dia_06 | Integral Indefinida e o Método da Substituição        |
 | dia_07 | Integral Definida e o Teorema Fundamental do Cálculo  |
+| dia_08 | Método de Integração por Partes                       |
+| dia_09 | Aplicações Variadas da Integral Definida              |
+| dia_10 | Cálculo de Área de Regiões Planas                     |
+| dia_11 | Integrais Impróprias e Limites Infinitos              |
+| dia_12 | Superfícies Quádricas e Esféricas                     |
+| dia_13 | Superfícies Cilíndricas e Cônicas                     |
+| dia_14 | Superfícies de Revolução                              |
+| dia_15 | Método dos Discos Circulares                          |
+| dia_16 | Método das Camadas Cilíndricas                        |
 
 </details>
 
