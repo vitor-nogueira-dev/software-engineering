@@ -12,6 +12,7 @@
 | ------ | --------------------------------------------------- |
 | dia_01 | Eficiência e escalabilidade em infraestrutura de TI |
 | dia_02 | Eficiência operacional em entrega de software       |
+| dia_03 | Front-end, back-end e persistência de dados         |
 
 </details>
 
