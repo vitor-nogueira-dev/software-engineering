@@ -11,6 +11,7 @@
 | Pasta  | Conteúdo                                            |
 | ------ | --------------------------------------------------- |
 | dia_01 | Eficiência e escalabilidade em infraestrutura de TI |
+| dia_02 | Eficiência operacional em entrega de software       |
 
 </details>
 
