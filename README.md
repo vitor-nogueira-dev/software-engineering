@@ -8,8 +8,9 @@
 
 <summary>devops-I</summary>
 
-| Pasta | Conteúdo |
-| ----- | -------- |
+| Pasta  | Conteúdo                                            |
+| ------ | --------------------------------------------------- |
+| dia_01 | Eficiência e escalabilidade em infraestrutura de TI |
 
 </details>
 
