@@ -8,8 +8,9 @@
 
 <summary>integrative-practice-cloud-computing</summary>
 
-| Pasta | Conteúdo |
-| ----- | -------- |
+| Pasta  | Conteúdo                                 |
+| ------ | ---------------------------------------- |
+| dia_01 | Noções sobre acesso, serviços e controle |
 
 </details>
 
