@@ -15,6 +15,7 @@
 | dia_03 | Front-end, back-end e persistência de dados         |
 | dia_04 | Docker: Introdução                                  |
 | dia_05 | Construindo nossa imagem                            |
+| dia_06 | Mexendo com arquivos/pastas e volumes               |
 
 </details>
 
