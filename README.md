@@ -16,6 +16,7 @@
 | dia_04 | Docker: Introdução                                  |
 | dia_05 | Construindo nossa imagem                            |
 | dia_06 | Mexendo com arquivos/pastas e volumes               |
+| dia_07 | Acessando "de dentro" e "de fora"                   |
 
 </details>
 
