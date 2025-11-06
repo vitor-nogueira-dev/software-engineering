@@ -12,6 +12,7 @@
 | ------ | ---------------------------------------- |
 | dia_01 | Noções sobre acesso, serviços e controle |
 | dia_02 | Plano de ação para adoção da nuvem       |
+| dia_03 | AWS Well-Architect Framework             |
 
 </details>
 
