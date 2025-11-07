@@ -14,6 +14,7 @@
 | dia_02 | Plano de ação para adoção da nuvem       |
 | dia_03 | AWS Well-Architect Framework             |
 | dia_04 | Pilares do AWS Well-Architect Framework  |
+| dia_05 | Computação na Nuvem                      |
 
 </details>
 
