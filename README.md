@@ -492,8 +492,16 @@
 
 <summary>integrative-practice-cloud-computing</summary>
 
-| Pasta | Conteúdo |
-| ----- | -------- |
+| Pasta  | Conteúdo                                   |
+| ------ | ------------------------------------------ |
+| dia_01 | Noções sobre acesso, serviços e controle   |
+| dia_02 | Plano de ação para adoção da nuvem         |
+| dia_03 | AWS Well-Architect Framework               |
+| dia_04 | Pilares do AWS Well-Architect Framework    |
+| dia_05 | Computação na Nuvem                        |
+| dia_06 | Computação na Nuvem sem Servidor           |
+| dia_07 | Benefícios da infraestrutura global da AWS |
+
 
 </details>
 
