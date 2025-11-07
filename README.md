@@ -16,6 +16,7 @@
 | dia_04 | Pilares do AWS Well-Architect Framework  |
 | dia_05 | Computação na Nuvem                      |
 | dia_06 | Computação na Nuvem sem Servidor         |
+| dia_07 | Computação na Nuvem sem Servidor         |
 
 </details>
 
