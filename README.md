@@ -23,6 +23,7 @@
 | dia_11 | Estágios de um fluxo de pipeline                    |
 | dia_12 | Subindo banco de dados via pipeline                 |
 | dia_13 | Subindo API via pipeline                            |
+| dia_14 | Subindo site via pipeline                           |
 
 </details>
 
