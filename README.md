@@ -25,6 +25,7 @@
 | dia_13 | Subindo API via pipeline                            |
 | dia_14 | Subindo site via pipeline                           |
 | dia_15 | Ambientes                                           |
+| dia_16 | Fechamento                                          |
 
 </details>
 
