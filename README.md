@@ -18,6 +18,7 @@
 | dia_06 | Mexendo com arquivos/pastas e volumes               |
 | dia_07 | Acessando "de dentro" e "de fora"                   |
 | dia_08 | Subindo uma solução completa                        |
+| dia_09 | Gitlab CI/CD: Introdução                            |
 
 </details>
 
