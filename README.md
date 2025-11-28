@@ -24,6 +24,7 @@
 | dia_12 | Subindo banco de dados via pipeline                 |
 | dia_13 | Subindo API via pipeline                            |
 | dia_14 | Subindo site via pipeline                           |
+| dia_15 | Ambientes                                           |
 
 </details>
 
