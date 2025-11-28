@@ -22,6 +22,7 @@
 | dia_10 | Criando um pipeline                                 |
 | dia_11 | Estágios de um fluxo de pipeline                    |
 | dia_12 | Subindo banco de dados via pipeline                 |
+| dia_13 | Subindo API via pipeline                            |
 
 </details>
 
