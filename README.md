@@ -20,6 +20,7 @@
 | dia_08 | Conectividade com a AWS                                   |
 | dia_09 | Armazenamento de Dados                                    |
 | dia_10 | Ferramentas e características de bancos de dados em nuvem |
+| dia_11 | Configuração e uso de plataformas como serviços           |
 
 </details>
 
