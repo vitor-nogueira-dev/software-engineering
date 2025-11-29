@@ -8,17 +8,18 @@
 
 <summary>integrative-practice-cloud-computing</summary>
 
-| Pasta  | Conteúdo                                   |
-| ------ | ------------------------------------------ |
-| dia_01 | Noções sobre acesso, serviços e controle   |
-| dia_02 | Plano de ação para adoção da nuvem         |
-| dia_03 | AWS Well-Architect Framework               |
-| dia_04 | Pilares do AWS Well-Architect Framework    |
-| dia_05 | Computação na Nuvem                        |
-| dia_06 | Computação na Nuvem sem Servidor           |
-| dia_07 | Benefícios da infraestrutura global da AWS |
-| dia_08 | Conectividade com a AWS                    |
-| dia_09 | Armazenamento de Dados                     |
+| Pasta  | Conteúdo                                                  |
+| ------ | --------------------------------------------------------- |
+| dia_01 | Noções sobre acesso, serviços e controle                  |
+| dia_02 | Plano de ação para adoção da nuvem                        |
+| dia_03 | AWS Well-Architect Framework                              |
+| dia_04 | Pilares do AWS Well-Architect Framework                   |
+| dia_05 | Computação na Nuvem                                       |
+| dia_06 | Computação na Nuvem sem Servidor                          |
+| dia_07 | Benefícios da infraestrutura global da AWS                |
+| dia_08 | Conectividade com a AWS                                   |
+| dia_09 | Armazenamento de Dados                                    |
+| dia_10 | Ferramentas e características de bancos de dados em nuvem |
 
 </details>
 
