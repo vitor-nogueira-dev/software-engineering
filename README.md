@@ -22,6 +22,7 @@
 | dia_10 | Ferramentas e características de bancos de dados em nuvem |
 | dia_11 | Configuração e uso de plataformas como serviços           |
 | dia_12 | Monitoramento dos servidores virtualizados                |
+| dia_13 | Ferramentas e características para segurança na nuvem     |
 
 </details>
 
