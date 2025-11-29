@@ -18,6 +18,7 @@
 | dia_06 | Computação na Nuvem sem Servidor           |
 | dia_07 | Benefícios da infraestrutura global da AWS |
 | dia_08 | Conectividade com a AWS                    |
+| dia_09 | Armazenamento de Dados                     |
 
 </details>
 
