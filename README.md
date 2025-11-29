@@ -25,6 +25,7 @@
 | dia_13 | Ferramentas e características para segurança na nuvem     |
 | dia_14 | Segurança e Privacidade em Ambientes em Nuvem             |
 | dia_15 | Governança em TI e a indústria 4.0                        |
+| dia_16 | Análise de custos dentro da AWS                           |
 
 </details>
 
